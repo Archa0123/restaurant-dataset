@@ -1,0 +1,1001 @@
+0,1,2,3,4,5,6,7
+Restaurant 1,Italian,Dallas,3.7,1835,$,Yes,10 AM - 11 PM
+Restaurant 2,Italian,Houston,2.3,1962,$$$,No,9 AM - 9 PM
+Restaurant 3,Italian,Chicago,1.2,1434,$$,Yes,24 Hours
+Restaurant 4,Italian,Los Angeles,1.8,1312,$,No,24 Hours
+Restaurant 5,Thai,New York,1.0,576,$,No,8 AM - 10 PM
+Restaurant 6,American,Dallas,3.8,1262,$,No,10 AM - 11 PM
+Restaurant 7,French,Phoenix,4.4,129,$$$,No,10 AM - 11 PM
+Restaurant 8,Vietnamese,Phoenix,4.6,909,$$,No,11 AM - 12 AM
+Restaurant 9,American,New York,3.3,1946,$$$$,Yes,8 AM - 10 PM
+Restaurant 10,Thai,Phoenix,2.6,439,$,Yes,8 AM - 10 PM
+Restaurant 11,Indian,Los Angeles,3.6,745,$,No,10 AM - 11 PM
+Restaurant 12,Italian,San Jose,2.0,406,$,No,10 AM - 11 PM
+Restaurant 13,Thai,Phoenix,3.2,416,$,Yes,10 AM - 11 PM
+Restaurant 14,Indian,Chicago,2.9,1774,$$$,Yes,24 Hours
+Restaurant 15,Japanese,Austin,2.6,1199,$$$,Yes,9 AM - 9 PM
+Restaurant 16,American,Los Angeles,2.1,930,$$$,No,9 AM - 9 PM
+Restaurant 17,Japanese,San Jose,4.2,1107,$$$$,No,10 AM - 11 PM
+Restaurant 18,Indian,San Diego,3.2,1747,$$,No,10 AM - 11 PM
+Restaurant 19,Indian,Jacksonville,2.8,418,$$$,Yes,8 AM - 10 PM
+Restaurant 20,Mexican,Jacksonville,4.4,1003,$$$$,No,24 Hours
+Restaurant 21,Mexican,Chicago,1.8,1066,$$,No,11 AM - 12 AM
+Restaurant 22,Japanese,Houston,3.7,1517,$$,No,8 AM - 10 PM
+Restaurant 23,Vietnamese,San Jose,3.6,1977,$,No,8 AM - 10 PM
+Restaurant 24,Japanese,Los Angeles,2.6,157,$$$$,Yes,11 AM - 12 AM
+Restaurant 25,Mediterranean,New York,4.4,1022,$,No,9 AM - 9 PM
+Restaurant 26,Vietnamese,Houston,3.0,789,$$$,No,11 AM - 12 AM
+Restaurant 27,Italian,Houston,4.8,854,$$,Yes,9 AM - 9 PM
+Restaurant 28,French,Dallas,3.3,1701,$$$,No,10 AM - 11 PM
+Restaurant 29,Mediterranean,Phoenix,1.6,1556,$$$$,No,11 AM - 12 AM
+Restaurant 30,Italian,Los Angeles,2.9,219,$$$$,Yes,10 AM - 11 PM
+Restaurant 31,Japanese,Phoenix,1.4,1074,$$$,Yes,9 AM - 9 PM
+Restaurant 32,Thai,Austin,1.1,1574,$,No,24 Hours
+Restaurant 33,Indian,Austin,4.7,1243,$$$,No,8 AM - 10 PM
+Restaurant 34,Chinese,Phoenix,2.4,1889,$$$$,No,9 AM - 9 PM
+Restaurant 35,Vietnamese,Chicago,2.4,243,$$$,No,24 Hours
+Restaurant 36,Mexican,San Diego,4.7,1831,$,Yes,24 Hours
+Restaurant 37,Mediterranean,Dallas,4.1,1112,$$,No,24 Hours
+Restaurant 38,Italian,New York,1.1,235,$$,Yes,24 Hours
+Restaurant 39,Japanese,Phoenix,4.6,1070,$$,No,11 AM - 12 AM
+Restaurant 40,Thai,Los Angeles,3.7,603,$$$$,No,8 AM - 10 PM
+Restaurant 41,French,Dallas,1.3,1076,$$$$,Yes,24 Hours
+Restaurant 42,Vietnamese,Los Angeles,2.6,1120,$$$$,No,9 AM - 9 PM
+Restaurant 43,Chinese,Jacksonville,2.6,445,$$$,Yes,11 AM - 12 AM
+Restaurant 44,Vietnamese,Jacksonville,1.1,1632,$$$,Yes,24 Hours
+Restaurant 45,Vietnamese,New York,1.4,1279,$$$,Yes,9 AM - 9 PM
+Restaurant 46,Vietnamese,Los Angeles,4.1,1500,$$$,Yes,11 AM - 12 AM
+Restaurant 47,Thai,Dallas,1.1,377,$$$$,Yes,11 AM - 12 AM
+Restaurant 48,Indian,San Diego,2.3,630,$$,No,8 AM - 10 PM
+Restaurant 49,Chinese,Dallas,1.5,1955,$$$,No,11 AM - 12 AM
+Restaurant 50,Mediterranean,Houston,1.4,538,$$,No,8 AM - 10 PM
+Restaurant 51,Japanese,Jacksonville,1.1,1233,$$$$,No,24 Hours
+Restaurant 52,American,Houston,2.5,401,$,Yes,8 AM - 10 PM
+Restaurant 53,Indian,Dallas,2.1,833,$$$$,Yes,10 AM - 11 PM
+Restaurant 54,French,San Jose,2.2,575,$,No,10 AM - 11 PM
+Restaurant 55,Japanese,San Diego,1.1,1223,$$,No,8 AM - 10 PM
+Restaurant 56,American,Phoenix,2.6,1819,$,No,8 AM - 10 PM
+Restaurant 57,Japanese,Los Angeles,1.2,1374,$$$,Yes,8 AM - 10 PM
+Restaurant 58,Japanese,New York,1.4,1642,$$,No,24 Hours
+Restaurant 59,Mediterranean,San Jose,2.9,290,$,Yes,10 AM - 11 PM
+Restaurant 60,Mexican,Chicago,4.0,76,$$$$,No,9 AM - 9 PM
+Restaurant 61,Italian,San Jose,4.2,89,$$$,No,10 AM - 11 PM
+Restaurant 62,Thai,Phoenix,2.4,172,$$,Yes,8 AM - 10 PM
+Restaurant 63,Chinese,New York,1.4,1106,$,No,9 AM - 9 PM
+Restaurant 64,Indian,Austin,3.3,531,$,Yes,8 AM - 10 PM
+Restaurant 65,Chinese,Houston,4.5,1076,$$$$,No,24 Hours
+Restaurant 66,Chinese,San Diego,4.8,1041,$,Yes,11 AM - 12 AM
+Restaurant 67,Indian,New York,1.1,483,$,No,10 AM - 11 PM
+Restaurant 68,French,Jacksonville,4.7,1873,$$$$,Yes,11 AM - 12 AM
+Restaurant 69,Indian,Austin,1.1,1351,$$$$,Yes,9 AM - 9 PM
+Restaurant 70,Japanese,Dallas,1.1,1937,$$,No,11 AM - 12 AM
+Restaurant 71,Indian,New York,4.9,572,$$,No,9 AM - 9 PM
+Restaurant 72,Italian,Los Angeles,1.1,1133,$$$$,No,10 AM - 11 PM
+Restaurant 73,Vietnamese,Jacksonville,2.2,499,$,No,24 Hours
+Restaurant 74,Mexican,Houston,1.8,1114,$,No,24 Hours
+Restaurant 75,Mexican,New York,2.2,1323,$,Yes,8 AM - 10 PM
+Restaurant 76,Mediterranean,San Jose,1.4,1212,$$$$,No,24 Hours
+Restaurant 77,Indian,New York,4.7,1244,$$$,Yes,9 AM - 9 PM
+Restaurant 78,Thai,New York,2.7,1862,$$$$,Yes,8 AM - 10 PM
+Restaurant 79,American,Chicago,4.7,1909,$$,No,24 Hours
+Restaurant 80,Mexican,San Diego,2.7,1161,$,No,8 AM - 10 PM
+Restaurant 81,Vietnamese,Chicago,2.2,758,$$$,Yes,11 AM - 12 AM
+Restaurant 82,Thai,Dallas,2.6,272,$$,Yes,8 AM - 10 PM
+Restaurant 83,French,Los Angeles,4.9,1122,$$$,No,9 AM - 9 PM
+Restaurant 84,Mexican,Los Angeles,3.2,429,$$,No,8 AM - 10 PM
+Restaurant 85,French,Houston,2.5,1850,$,No,8 AM - 10 PM
+Restaurant 86,Mediterranean,Los Angeles,4.5,1493,$$,No,9 AM - 9 PM
+Restaurant 87,Indian,New York,4.3,1566,$$$$,Yes,10 AM - 11 PM
+Restaurant 88,Japanese,New York,3.0,1649,$$,Yes,8 AM - 10 PM
+Restaurant 89,French,Dallas,4.5,1628,$,No,8 AM - 10 PM
+Restaurant 90,Mexican,Jacksonville,4.9,771,$,Yes,8 AM - 10 PM
+Restaurant 91,French,Houston,4.5,869,$,No,10 AM - 11 PM
+Restaurant 92,Indian,Austin,1.8,1407,$,Yes,8 AM - 10 PM
+Restaurant 93,Mediterranean,San Diego,4.5,152,$$$,Yes,8 AM - 10 PM
+Restaurant 94,Thai,Chicago,2.7,1140,$$$,No,11 AM - 12 AM
+Restaurant 95,Thai,New York,3.1,296,$$$,Yes,8 AM - 10 PM
+Restaurant 96,American,Chicago,3.5,1816,$$$,Yes,24 Hours
+Restaurant 97,Mexican,Los Angeles,4.7,1200,$$,No,11 AM - 12 AM
+Restaurant 98,Mediterranean,Austin,2.2,1594,$$,No,24 Hours
+Restaurant 99,Mexican,Austin,2.2,229,$$,Yes,8 AM - 10 PM
+Restaurant 100,Thai,New York,3.3,1419,$,No,8 AM - 10 PM
+Restaurant 101,Mexican,Phoenix,2.8,1620,$$$,No,10 AM - 11 PM
+Restaurant 102,Japanese,San Jose,1.5,12,$$,No,24 Hours
+Restaurant 103,Mediterranean,San Jose,1.6,1004,$$,No,10 AM - 11 PM
+Restaurant 104,Mediterranean,San Jose,5.0,1453,$$$,No,11 AM - 12 AM
+Restaurant 105,French,Phoenix,1.2,494,$$$$,Yes,11 AM - 12 AM
+Restaurant 106,Japanese,Phoenix,2.5,616,$$$$,Yes,24 Hours
+Restaurant 107,Thai,Jacksonville,1.5,1633,$$$,No,11 AM - 12 AM
+Restaurant 108,Mexican,Chicago,4.0,1935,$,No,24 Hours
+Restaurant 109,Thai,San Diego,4.8,327,$,No,11 AM - 12 AM
+Restaurant 110,Chinese,Houston,4.2,1899,$$,Yes,8 AM - 10 PM
+Restaurant 111,Mexican,Los Angeles,4.6,99,$$,Yes,9 AM - 9 PM
+Restaurant 112,Mediterranean,Dallas,1.6,1139,$$$$,Yes,8 AM - 10 PM
+Restaurant 113,Italian,Houston,4.9,1740,$$,Yes,8 AM - 10 PM
+Restaurant 114,French,Chicago,3.8,170,$$,No,9 AM - 9 PM
+Restaurant 115,Thai,Houston,3.2,92,$,No,11 AM - 12 AM
+Restaurant 116,American,Dallas,5.0,638,$,No,10 AM - 11 PM
+Restaurant 117,Thai,Houston,4.9,1548,$$$$,Yes,24 Hours
+Restaurant 118,Italian,New York,2.9,1676,$$,Yes,8 AM - 10 PM
+Restaurant 119,Mexican,Jacksonville,2.2,1537,$$$$,Yes,9 AM - 9 PM
+Restaurant 120,Thai,Austin,4.5,659,$$,No,11 AM - 12 AM
+Restaurant 121,Mediterranean,New York,4.2,1020,$$$,Yes,10 AM - 11 PM
+Restaurant 122,Mexican,Los Angeles,4.8,1918,$$,Yes,8 AM - 10 PM
+Restaurant 123,American,Austin,4.3,36,$$$,Yes,10 AM - 11 PM
+Restaurant 124,French,San Jose,1.5,517,$,No,9 AM - 9 PM
+Restaurant 125,Chinese,Jacksonville,3.9,524,$$,No,11 AM - 12 AM
+Restaurant 126,Mediterranean,Houston,2.9,290,$$,Yes,24 Hours
+Restaurant 127,Chinese,San Diego,4.9,1576,$$$,Yes,24 Hours
+Restaurant 128,Thai,Houston,2.5,1009,$,No,24 Hours
+Restaurant 129,French,Houston,5.0,1099,$$,Yes,9 AM - 9 PM
+Restaurant 130,Mexican,Phoenix,3.6,1335,$$,Yes,8 AM - 10 PM
+Restaurant 131,Indian,Houston,4.4,121,$$$,Yes,10 AM - 11 PM
+Restaurant 132,Italian,Jacksonville,1.7,1470,$,No,8 AM - 10 PM
+Restaurant 133,Japanese,Dallas,4.5,745,$$$,No,11 AM - 12 AM
+Restaurant 134,Chinese,San Jose,1.8,1436,$$$$,No,10 AM - 11 PM
+Restaurant 135,Vietnamese,San Jose,3.0,77,$,No,8 AM - 10 PM
+Restaurant 136,Indian,Los Angeles,4.9,904,$$$,Yes,11 AM - 12 AM
+Restaurant 137,Italian,Houston,1.9,170,$$,No,11 AM - 12 AM
+Restaurant 138,American,Houston,3.9,334,$,No,11 AM - 12 AM
+Restaurant 139,Indian,Dallas,4.4,458,$$,Yes,24 Hours
+Restaurant 140,Indian,Dallas,3.1,665,$$$$,No,24 Hours
+Restaurant 141,Indian,Phoenix,4.4,1910,$$$$,Yes,9 AM - 9 PM
+Restaurant 142,Italian,Jacksonville,2.6,970,$$$,No,9 AM - 9 PM
+Restaurant 143,American,Austin,3.6,846,$$$,Yes,9 AM - 9 PM
+Restaurant 144,Mexican,Chicago,5.0,1543,$$$,Yes,8 AM - 10 PM
+Restaurant 145,Thai,Phoenix,3.1,1958,$$,No,10 AM - 11 PM
+Restaurant 146,Japanese,San Jose,3.7,140,$$,Yes,11 AM - 12 AM
+Restaurant 147,Thai,Chicago,4.8,1582,$,No,11 AM - 12 AM
+Restaurant 148,Japanese,Houston,3.8,635,$$$$,Yes,8 AM - 10 PM
+Restaurant 149,Japanese,Jacksonville,1.7,539,$$$$,Yes,24 Hours
+Restaurant 150,Mexican,Austin,2.5,1561,$$$$,Yes,10 AM - 11 PM
+Restaurant 151,Italian,Jacksonville,2.2,1173,$,Yes,24 Hours
+Restaurant 152,Chinese,San Diego,2.9,1743,$$,No,9 AM - 9 PM
+Restaurant 153,Mexican,Houston,4.6,1700,$,Yes,10 AM - 11 PM
+Restaurant 154,Italian,San Diego,1.9,1579,$$$$,Yes,10 AM - 11 PM
+Restaurant 155,Thai,Los Angeles,3.3,1238,$$$,No,9 AM - 9 PM
+Restaurant 156,Indian,Dallas,1.3,56,$$$,Yes,9 AM - 9 PM
+Restaurant 157,Italian,Jacksonville,1.9,1049,$,Yes,24 Hours
+Restaurant 158,Chinese,Chicago,4.7,1569,$,No,10 AM - 11 PM
+Restaurant 159,Mexican,Houston,4.6,939,$$,No,9 AM - 9 PM
+Restaurant 160,French,Jacksonville,1.4,761,$$$,No,9 AM - 9 PM
+Restaurant 161,Thai,Los Angeles,1.5,906,$$$,Yes,8 AM - 10 PM
+Restaurant 162,Japanese,Houston,3.2,495,$$,No,24 Hours
+Restaurant 163,American,Dallas,1.2,1441,$$$,No,11 AM - 12 AM
+Restaurant 164,American,Chicago,4.5,1508,$,Yes,24 Hours
+Restaurant 165,Italian,Dallas,2.0,218,$,Yes,11 AM - 12 AM
+Restaurant 166,Chinese,Phoenix,1.8,561,$$$,Yes,8 AM - 10 PM
+Restaurant 167,Thai,Jacksonville,3.0,1316,$$$,Yes,8 AM - 10 PM
+Restaurant 168,Thai,New York,3.7,779,$$$,Yes,9 AM - 9 PM
+Restaurant 169,Thai,Austin,4.2,578,$$,Yes,8 AM - 10 PM
+Restaurant 170,French,San Jose,2.2,1253,$,No,11 AM - 12 AM
+Restaurant 171,French,New York,2.0,1781,$$$$,No,24 Hours
+Restaurant 172,Mediterranean,New York,2.7,1734,$,Yes,10 AM - 11 PM
+Restaurant 173,French,Phoenix,3.7,916,$$,Yes,24 Hours
+Restaurant 174,American,Houston,5.0,340,$$$,No,11 AM - 12 AM
+Restaurant 175,Chinese,Houston,3.8,175,$$$,No,8 AM - 10 PM
+Restaurant 176,Mediterranean,Jacksonville,2.3,940,$$$,No,10 AM - 11 PM
+Restaurant 177,American,Austin,3.0,1634,$$,No,9 AM - 9 PM
+Restaurant 178,Vietnamese,San Jose,1.4,1469,$$$$,No,10 AM - 11 PM
+Restaurant 179,Mexican,Jacksonville,4.0,1827,$,Yes,10 AM - 11 PM
+Restaurant 180,Japanese,Jacksonville,1.1,1069,$$,Yes,24 Hours
+Restaurant 181,Indian,Jacksonville,2.0,237,$$,No,8 AM - 10 PM
+Restaurant 182,Mexican,Jacksonville,3.3,900,$$$,Yes,8 AM - 10 PM
+Restaurant 183,Indian,Phoenix,2.3,682,$$$$,No,10 AM - 11 PM
+Restaurant 184,Thai,Houston,3.8,91,$,Yes,9 AM - 9 PM
+Restaurant 185,Italian,Chicago,4.5,172,$$$$,Yes,10 AM - 11 PM
+Restaurant 186,Italian,Chicago,4.7,1962,$$,Yes,24 Hours
+Restaurant 187,Japanese,San Diego,1.7,719,$$,No,8 AM - 10 PM
+Restaurant 188,Chinese,Jacksonville,3.2,421,$,Yes,11 AM - 12 AM
+Restaurant 189,Vietnamese,Los Angeles,2.5,1192,$,Yes,11 AM - 12 AM
+Restaurant 190,Thai,Houston,3.5,1364,$$,No,8 AM - 10 PM
+Restaurant 191,Indian,New York,1.7,1315,$$$$,No,8 AM - 10 PM
+Restaurant 192,Mexican,Chicago,2.1,254,$$$$,Yes,8 AM - 10 PM
+Restaurant 193,French,San Jose,2.8,1436,$,No,9 AM - 9 PM
+Restaurant 194,Japanese,Dallas,2.5,1038,$$$,No,9 AM - 9 PM
+Restaurant 195,Mexican,Los Angeles,4.0,92,$$,No,9 AM - 9 PM
+Restaurant 196,Mexican,San Diego,3.7,1898,$,No,11 AM - 12 AM
+Restaurant 197,Italian,San Jose,1.6,1131,$$,No,11 AM - 12 AM
+Restaurant 198,Indian,San Jose,4.9,995,$$,No,11 AM - 12 AM
+Restaurant 199,Italian,Houston,4.9,1731,$$,Yes,9 AM - 9 PM
+Restaurant 200,Mexican,Jacksonville,1.8,269,$,No,9 AM - 9 PM
+Restaurant 201,Chinese,Chicago,2.6,996,$$$$,Yes,8 AM - 10 PM
+Restaurant 202,Chinese,Jacksonville,2.4,1336,$$,Yes,11 AM - 12 AM
+Restaurant 203,American,Jacksonville,1.9,540,$,Yes,11 AM - 12 AM
+Restaurant 204,Italian,Jacksonville,2.1,113,$,Yes,24 Hours
+Restaurant 205,Chinese,Austin,2.3,807,$$$,Yes,9 AM - 9 PM
+Restaurant 206,Chinese,Chicago,2.5,354,$$,Yes,11 AM - 12 AM
+Restaurant 207,Chinese,Austin,3.7,484,$$,No,24 Hours
+Restaurant 208,French,San Diego,2.8,994,$,No,9 AM - 9 PM
+Restaurant 209,American,Jacksonville,1.8,1745,$$,No,9 AM - 9 PM
+Restaurant 210,Italian,Houston,2.6,980,$$$$,Yes,8 AM - 10 PM
+Restaurant 211,Japanese,San Diego,4.6,455,$$$$,No,24 Hours
+Restaurant 212,Italian,San Jose,2.6,86,$$$$,No,10 AM - 11 PM
+Restaurant 213,Indian,Jacksonville,2.3,1907,$$$,No,8 AM - 10 PM
+Restaurant 214,French,Phoenix,3.7,1590,$$$$,No,8 AM - 10 PM
+Restaurant 215,Japanese,San Diego,1.8,587,$$,No,9 AM - 9 PM
+Restaurant 216,Mexican,Jacksonville,3.8,1968,$$,No,8 AM - 10 PM
+Restaurant 217,Thai,San Jose,2.8,1612,$$,Yes,10 AM - 11 PM
+Restaurant 218,Chinese,Jacksonville,3.3,145,$$,No,10 AM - 11 PM
+Restaurant 219,Mediterranean,San Jose,4.0,655,$$$$,No,8 AM - 10 PM
+Restaurant 220,Chinese,Los Angeles,3.3,506,$,Yes,8 AM - 10 PM
+Restaurant 221,French,Houston,1.8,1789,$,Yes,9 AM - 9 PM
+Restaurant 222,Italian,Austin,4.2,569,$$,No,9 AM - 9 PM
+Restaurant 223,American,San Jose,2.9,245,$$$$,No,24 Hours
+Restaurant 224,Japanese,San Diego,4.5,877,$$,No,24 Hours
+Restaurant 225,Japanese,Chicago,4.3,1917,$$$,Yes,8 AM - 10 PM
+Restaurant 226,Indian,Dallas,4.4,568,$$$,No,24 Hours
+Restaurant 227,Italian,San Jose,1.1,1281,$$$$,Yes,11 AM - 12 AM
+Restaurant 228,Japanese,New York,2.6,274,$,Yes,10 AM - 11 PM
+Restaurant 229,Chinese,Phoenix,2.6,118,$$,Yes,10 AM - 11 PM
+Restaurant 230,French,Dallas,3.0,899,$$$$,No,9 AM - 9 PM
+Restaurant 231,Mexican,Dallas,1.5,445,$,Yes,11 AM - 12 AM
+Restaurant 232,Mediterranean,Jacksonville,1.7,165,$,No,11 AM - 12 AM
+Restaurant 233,Mexican,Houston,3.2,1845,$,No,9 AM - 9 PM
+Restaurant 234,Vietnamese,San Jose,1.0,1491,$$$,No,24 Hours
+Restaurant 235,American,Austin,2.1,54,$$,Yes,24 Hours
+Restaurant 236,American,Austin,2.9,1569,$$$$,Yes,24 Hours
+Restaurant 237,Thai,Jacksonville,4.4,518,$$$,No,8 AM - 10 PM
+Restaurant 238,Chinese,Dallas,2.1,739,$,No,10 AM - 11 PM
+Restaurant 239,American,Los Angeles,3.3,1735,$$$,No,9 AM - 9 PM
+Restaurant 240,Italian,San Jose,2.8,326,$,No,9 AM - 9 PM
+Restaurant 241,Italian,Los Angeles,4.4,1512,$,Yes,24 Hours
+Restaurant 242,Mediterranean,San Diego,2.1,1079,$,Yes,10 AM - 11 PM
+Restaurant 243,Indian,Phoenix,4.0,142,$,Yes,10 AM - 11 PM
+Restaurant 244,Mediterranean,San Jose,3.7,1591,$$,Yes,10 AM - 11 PM
+Restaurant 245,American,Phoenix,4.2,1105,$$$,Yes,9 AM - 9 PM
+Restaurant 246,French,Houston,2.9,1536,$,No,11 AM - 12 AM
+Restaurant 247,Chinese,New York,3.2,1398,$$$$,Yes,11 AM - 12 AM
+Restaurant 248,Mexican,San Diego,2.1,1502,$$$,No,9 AM - 9 PM
+Restaurant 249,Indian,New York,3.3,405,$$$$,No,11 AM - 12 AM
+Restaurant 250,Indian,New York,2.2,244,$$$,Yes,8 AM - 10 PM
+Restaurant 251,American,San Jose,2.8,811,$$$,No,11 AM - 12 AM
+Restaurant 252,Thai,Chicago,2.2,264,$$$$,No,10 AM - 11 PM
+Restaurant 253,Italian,Dallas,2.6,1812,$$$,Yes,8 AM - 10 PM
+Restaurant 254,Thai,Phoenix,3.6,344,$$$,Yes,11 AM - 12 AM
+Restaurant 255,Thai,Austin,1.2,174,$,Yes,24 Hours
+Restaurant 256,Mediterranean,San Jose,3.4,440,$$$$,Yes,11 AM - 12 AM
+Restaurant 257,Chinese,Los Angeles,3.8,807,$,No,11 AM - 12 AM
+Restaurant 258,Vietnamese,Los Angeles,1.0,894,$,No,9 AM - 9 PM
+Restaurant 259,Mexican,San Diego,1.0,1405,$,Yes,8 AM - 10 PM
+Restaurant 260,Vietnamese,San Jose,2.0,1581,$,No,10 AM - 11 PM
+Restaurant 261,French,Dallas,3.0,1839,$$$,No,11 AM - 12 AM
+Restaurant 262,American,Dallas,4.9,593,$$$$,Yes,11 AM - 12 AM
+Restaurant 263,Italian,Phoenix,3.0,1510,$$$$,Yes,24 Hours
+Restaurant 264,Chinese,New York,4.6,1159,$$$,Yes,24 Hours
+Restaurant 265,Mexican,Los Angeles,3.3,423,$,No,11 AM - 12 AM
+Restaurant 266,American,Los Angeles,3.1,892,$$$,No,9 AM - 9 PM
+Restaurant 267,Mediterranean,Dallas,2.1,760,$$,No,10 AM - 11 PM
+Restaurant 268,Vietnamese,New York,1.7,847,$,Yes,8 AM - 10 PM
+Restaurant 269,American,Chicago,1.7,554,$$$$,No,8 AM - 10 PM
+Restaurant 270,Mediterranean,San Jose,2.0,32,$$$$,No,8 AM - 10 PM
+Restaurant 271,Italian,San Diego,3.3,393,$$$$,Yes,11 AM - 12 AM
+Restaurant 272,Thai,Jacksonville,1.5,1156,$$,No,24 Hours
+Restaurant 273,Vietnamese,Austin,4.1,1006,$$$$,Yes,9 AM - 9 PM
+Restaurant 274,Italian,Phoenix,1.2,1268,$$,No,8 AM - 10 PM
+Restaurant 275,French,Houston,2.1,881,$,No,24 Hours
+Restaurant 276,Mexican,Dallas,4.2,1652,$$,No,9 AM - 9 PM
+Restaurant 277,Vietnamese,San Jose,3.1,1399,$,Yes,9 AM - 9 PM
+Restaurant 278,Japanese,Austin,4.3,101,$$$$,No,10 AM - 11 PM
+Restaurant 279,Japanese,Jacksonville,3.3,84,$,Yes,11 AM - 12 AM
+Restaurant 280,Indian,San Jose,1.1,878,$$$$,No,24 Hours
+Restaurant 281,Mediterranean,New York,4.9,676,$$,Yes,9 AM - 9 PM
+Restaurant 282,American,Dallas,4.0,987,$$,Yes,11 AM - 12 AM
+Restaurant 283,Vietnamese,New York,3.8,390,$$,Yes,24 Hours
+Restaurant 284,Indian,Dallas,1.8,1704,$$$$,Yes,9 AM - 9 PM
+Restaurant 285,Thai,Houston,2.0,1597,$$,No,11 AM - 12 AM
+Restaurant 286,Vietnamese,Los Angeles,4.8,948,$,No,24 Hours
+Restaurant 287,Mexican,Phoenix,4.7,1104,$,No,8 AM - 10 PM
+Restaurant 288,American,San Diego,2.0,1416,$$$,No,24 Hours
+Restaurant 289,Japanese,San Diego,3.9,835,$$$$,No,24 Hours
+Restaurant 290,Indian,Los Angeles,3.7,55,$$$$,Yes,11 AM - 12 AM
+Restaurant 291,Chinese,San Diego,2.3,1645,$$$,No,8 AM - 10 PM
+Restaurant 292,Indian,San Diego,3.0,609,$$$,No,10 AM - 11 PM
+Restaurant 293,Mediterranean,Austin,2.4,1164,$,No,10 AM - 11 PM
+Restaurant 294,Thai,Chicago,3.8,1466,$$$,Yes,24 Hours
+Restaurant 295,American,Los Angeles,3.6,677,$$,Yes,8 AM - 10 PM
+Restaurant 296,Mexican,Houston,2.0,1037,$,Yes,9 AM - 9 PM
+Restaurant 297,Japanese,Austin,4.6,1111,$$$,Yes,24 Hours
+Restaurant 298,Vietnamese,Chicago,2.2,1070,$$,No,8 AM - 10 PM
+Restaurant 299,American,Houston,4.9,1499,$$$$,No,10 AM - 11 PM
+Restaurant 300,Mexican,Dallas,4.4,1825,$$,Yes,11 AM - 12 AM
+Restaurant 301,Japanese,New York,4.6,1235,$$,No,8 AM - 10 PM
+Restaurant 302,French,Jacksonville,3.0,197,$$$,No,10 AM - 11 PM
+Restaurant 303,Italian,Jacksonville,1.8,1838,$$$$,Yes,24 Hours
+Restaurant 304,Thai,Dallas,1.5,359,$$,Yes,11 AM - 12 AM
+Restaurant 305,Japanese,Jacksonville,4.5,1034,$,No,11 AM - 12 AM
+Restaurant 306,Vietnamese,Los Angeles,2.8,1346,$$,No,11 AM - 12 AM
+Restaurant 307,French,Jacksonville,2.1,593,$$$$,No,10 AM - 11 PM
+Restaurant 308,Thai,New York,1.3,62,$$$,Yes,9 AM - 9 PM
+Restaurant 309,Indian,Los Angeles,2.7,1368,$$$$,No,24 Hours
+Restaurant 310,Japanese,New York,1.5,1763,$$$,No,11 AM - 12 AM
+Restaurant 311,Indian,Los Angeles,2.3,1226,$$$$,Yes,24 Hours
+Restaurant 312,Indian,Los Angeles,2.5,646,$$$$,Yes,24 Hours
+Restaurant 313,Vietnamese,Los Angeles,4.5,596,$$$,Yes,11 AM - 12 AM
+Restaurant 314,Japanese,San Diego,2.7,956,$$$$,No,8 AM - 10 PM
+Restaurant 315,Mexican,Los Angeles,2.4,144,$,Yes,11 AM - 12 AM
+Restaurant 316,Japanese,New York,2.4,1918,$$,No,24 Hours
+Restaurant 317,Thai,Dallas,3.0,1573,$,No,9 AM - 9 PM
+Restaurant 318,French,New York,4.0,420,$$,Yes,9 AM - 9 PM
+Restaurant 319,Indian,Houston,2.3,1569,$$$,Yes,11 AM - 12 AM
+Restaurant 320,Vietnamese,Phoenix,3.5,1352,$$,Yes,10 AM - 11 PM
+Restaurant 321,Mexican,New York,1.0,680,$$,Yes,10 AM - 11 PM
+Restaurant 322,American,Dallas,4.6,1894,$$,No,10 AM - 11 PM
+Restaurant 323,French,Chicago,4.9,1648,$$,Yes,11 AM - 12 AM
+Restaurant 324,Japanese,Houston,4.7,1148,$$$$,No,8 AM - 10 PM
+Restaurant 325,Indian,Houston,4.6,1655,$$,Yes,9 AM - 9 PM
+Restaurant 326,American,Los Angeles,1.9,684,$$$,No,24 Hours
+Restaurant 327,Mexican,Austin,3.8,1727,$$$,No,11 AM - 12 AM
+Restaurant 328,American,Jacksonville,4.6,864,$,No,9 AM - 9 PM
+Restaurant 329,Mediterranean,Chicago,3.1,961,$$,Yes,11 AM - 12 AM
+Restaurant 330,Vietnamese,Jacksonville,1.3,1140,$,No,11 AM - 12 AM
+Restaurant 331,Japanese,Dallas,2.2,750,$$$,Yes,8 AM - 10 PM
+Restaurant 332,Italian,Chicago,3.8,202,$$$$,Yes,9 AM - 9 PM
+Restaurant 333,Thai,Phoenix,1.3,104,$$$,Yes,8 AM - 10 PM
+Restaurant 334,Vietnamese,Houston,2.2,213,$,Yes,10 AM - 11 PM
+Restaurant 335,Vietnamese,Los Angeles,2.1,889,$,Yes,9 AM - 9 PM
+Restaurant 336,Italian,Chicago,4.9,708,$$,No,24 Hours
+Restaurant 337,Indian,Dallas,1.6,1030,$$,Yes,10 AM - 11 PM
+Restaurant 338,Mediterranean,Los Angeles,2.7,597,$$,No,24 Hours
+Restaurant 339,Italian,San Diego,1.9,1521,$,Yes,10 AM - 11 PM
+Restaurant 340,Mexican,San Diego,2.1,1248,$$,No,24 Hours
+Restaurant 341,Japanese,Phoenix,2.9,434,$$$,No,11 AM - 12 AM
+Restaurant 342,American,Dallas,4.5,1360,$$$,No,24 Hours
+Restaurant 343,Indian,Phoenix,1.9,1457,$$$,No,9 AM - 9 PM
+Restaurant 344,Mediterranean,Jacksonville,1.2,1613,$$,No,10 AM - 11 PM
+Restaurant 345,Vietnamese,Jacksonville,2.6,856,$,No,8 AM - 10 PM
+Restaurant 346,Mexican,San Jose,1.6,286,$,No,10 AM - 11 PM
+Restaurant 347,American,Los Angeles,5.0,1374,$,No,24 Hours
+Restaurant 348,Italian,Los Angeles,1.9,1879,$$$,Yes,9 AM - 9 PM
+Restaurant 349,Mediterranean,Houston,3.0,1307,$$,Yes,24 Hours
+Restaurant 350,Mexican,Houston,1.0,759,$$$,Yes,8 AM - 10 PM
+Restaurant 351,French,Dallas,4.2,1764,$$$,Yes,9 AM - 9 PM
+Restaurant 352,Japanese,New York,1.6,847,$$,No,24 Hours
+Restaurant 353,Chinese,San Diego,1.8,373,$$$,Yes,11 AM - 12 AM
+Restaurant 354,Indian,Phoenix,1.0,1125,$$,Yes,11 AM - 12 AM
+Restaurant 355,Mexican,Chicago,3.4,98,$$,Yes,10 AM - 11 PM
+Restaurant 356,Mexican,Austin,4.8,1929,$$$$,No,24 Hours
+Restaurant 357,Chinese,Dallas,1.9,824,$$,Yes,11 AM - 12 AM
+Restaurant 358,American,San Jose,3.4,1737,$$$,Yes,8 AM - 10 PM
+Restaurant 359,Vietnamese,San Jose,3.8,1928,$$$$,No,9 AM - 9 PM
+Restaurant 360,Italian,San Diego,4.4,228,$$$,Yes,11 AM - 12 AM
+Restaurant 361,French,San Jose,1.5,919,$$$,Yes,11 AM - 12 AM
+Restaurant 362,Italian,Phoenix,3.1,1640,$$$$,No,9 AM - 9 PM
+Restaurant 363,Italian,Los Angeles,4.5,1874,$,Yes,8 AM - 10 PM
+Restaurant 364,Mediterranean,San Diego,2.0,139,$,No,10 AM - 11 PM
+Restaurant 365,Chinese,San Diego,2.9,80,$,Yes,10 AM - 11 PM
+Restaurant 366,Indian,San Jose,1.8,1744,$$$,Yes,10 AM - 11 PM
+Restaurant 367,Mexican,New York,4.0,1980,$,Yes,10 AM - 11 PM
+Restaurant 368,Indian,New York,2.8,1397,$,Yes,8 AM - 10 PM
+Restaurant 369,Italian,Houston,4.4,1206,$$$,No,11 AM - 12 AM
+Restaurant 370,Vietnamese,Chicago,1.9,98,$$,Yes,8 AM - 10 PM
+Restaurant 371,Mediterranean,Austin,3.8,1281,$$$$,No,10 AM - 11 PM
+Restaurant 372,Vietnamese,Austin,3.8,558,$,No,11 AM - 12 AM
+Restaurant 373,French,Chicago,4.0,366,$,No,24 Hours
+Restaurant 374,Indian,Houston,4.7,1341,$$$$,Yes,24 Hours
+Restaurant 375,Thai,Dallas,3.9,944,$,Yes,10 AM - 11 PM
+Restaurant 376,American,Austin,4.8,1547,$,Yes,8 AM - 10 PM
+Restaurant 377,Mediterranean,Chicago,1.6,412,$$$$,No,9 AM - 9 PM
+Restaurant 378,Japanese,Austin,3.7,1490,$$$,No,8 AM - 10 PM
+Restaurant 379,Chinese,Phoenix,2.2,1222,$$$$,No,11 AM - 12 AM
+Restaurant 380,American,Dallas,1.8,1710,$$$$,No,10 AM - 11 PM
+Restaurant 381,Chinese,Phoenix,4.2,581,$,No,10 AM - 11 PM
+Restaurant 382,Mexican,Jacksonville,1.0,1324,$,No,10 AM - 11 PM
+Restaurant 383,Chinese,Los Angeles,1.8,735,$$,No,24 Hours
+Restaurant 384,Japanese,San Diego,3.6,517,$$$,Yes,9 AM - 9 PM
+Restaurant 385,Indian,Chicago,1.3,1050,$,No,9 AM - 9 PM
+Restaurant 386,American,Dallas,3.1,137,$$$$,Yes,8 AM - 10 PM
+Restaurant 387,Vietnamese,Dallas,4.1,783,$$,Yes,11 AM - 12 AM
+Restaurant 388,Japanese,Dallas,4.2,260,$$$,No,11 AM - 12 AM
+Restaurant 389,Indian,Houston,4.4,1279,$$$$,Yes,11 AM - 12 AM
+Restaurant 390,Thai,San Diego,4.8,627,$,No,11 AM - 12 AM
+Restaurant 391,American,San Jose,1.6,1468,$$$,No,10 AM - 11 PM
+Restaurant 392,Italian,Austin,4.0,165,$$$$,Yes,24 Hours
+Restaurant 393,Thai,Chicago,3.4,726,$$,Yes,8 AM - 10 PM
+Restaurant 394,French,San Jose,1.6,1548,$$$,No,9 AM - 9 PM
+Restaurant 395,Italian,Dallas,3.0,29,$$$$,Yes,11 AM - 12 AM
+Restaurant 396,Thai,Phoenix,2.7,1419,$$,No,10 AM - 11 PM
+Restaurant 397,Indian,Phoenix,2.1,1587,$,No,24 Hours
+Restaurant 398,American,San Jose,4.6,285,$,Yes,8 AM - 10 PM
+Restaurant 399,Italian,Los Angeles,2.5,1099,$$,No,11 AM - 12 AM
+Restaurant 400,Japanese,Austin,3.7,193,$,Yes,11 AM - 12 AM
+Restaurant 401,Indian,Phoenix,2.8,1607,$$$$,Yes,24 Hours
+Restaurant 402,American,Dallas,4.7,525,$$$$,No,11 AM - 12 AM
+Restaurant 403,French,San Jose,2.7,327,$$,Yes,9 AM - 9 PM
+Restaurant 404,Mediterranean,Chicago,4.2,11,$$,Yes,24 Hours
+Restaurant 405,French,Houston,3.5,1974,$,Yes,10 AM - 11 PM
+Restaurant 406,American,Austin,1.6,195,$,Yes,24 Hours
+Restaurant 407,Vietnamese,Houston,4.6,1973,$$$,No,9 AM - 9 PM
+Restaurant 408,Chinese,Houston,1.1,55,$$$,Yes,8 AM - 10 PM
+Restaurant 409,Italian,Jacksonville,4.0,525,$,No,8 AM - 10 PM
+Restaurant 410,Mediterranean,Houston,2.1,1862,$,No,10 AM - 11 PM
+Restaurant 411,Vietnamese,Austin,3.2,1766,$$,No,11 AM - 12 AM
+Restaurant 412,Italian,Dallas,3.8,1754,$$$$,No,10 AM - 11 PM
+Restaurant 413,Chinese,Phoenix,4.0,404,$$,Yes,24 Hours
+Restaurant 414,Japanese,Houston,2.4,222,$,Yes,8 AM - 10 PM
+Restaurant 415,American,San Jose,2.6,619,$$$$,Yes,10 AM - 11 PM
+Restaurant 416,Japanese,Chicago,4.5,1350,$,No,9 AM - 9 PM
+Restaurant 417,Mexican,Austin,4.2,1294,$$,Yes,10 AM - 11 PM
+Restaurant 418,Mediterranean,Jacksonville,3.6,1940,$,Yes,24 Hours
+Restaurant 419,French,Phoenix,2.7,1331,$$$,No,24 Hours
+Restaurant 420,American,Austin,3.1,1050,$$$$,Yes,11 AM - 12 AM
+Restaurant 421,Vietnamese,Chicago,4.7,1430,$$$$,No,10 AM - 11 PM
+Restaurant 422,Japanese,Dallas,1.6,1586,$$$,Yes,24 Hours
+Restaurant 423,Vietnamese,Jacksonville,4.3,1432,$$$,Yes,10 AM - 11 PM
+Restaurant 424,Indian,New York,4.4,1698,$$$,No,24 Hours
+Restaurant 425,Indian,New York,3.4,1013,$$$,No,24 Hours
+Restaurant 426,Thai,San Jose,2.5,730,$$$,Yes,8 AM - 10 PM
+Restaurant 427,American,Dallas,3.7,1091,$$$$,Yes,9 AM - 9 PM
+Restaurant 428,American,Dallas,1.6,1802,$,Yes,8 AM - 10 PM
+Restaurant 429,Chinese,Houston,2.1,1989,$$,Yes,11 AM - 12 AM
+Restaurant 430,Mexican,San Diego,4.0,212,$,No,24 Hours
+Restaurant 431,French,Chicago,1.4,132,$$$,No,10 AM - 11 PM
+Restaurant 432,American,Dallas,4.3,1225,$$$,Yes,10 AM - 11 PM
+Restaurant 433,Indian,Houston,4.5,1419,$$$,No,11 AM - 12 AM
+Restaurant 434,Mediterranean,Dallas,4.5,1898,$$,No,11 AM - 12 AM
+Restaurant 435,Chinese,Chicago,3.9,1545,$,Yes,10 AM - 11 PM
+Restaurant 436,Chinese,Houston,2.1,624,$,Yes,8 AM - 10 PM
+Restaurant 437,Indian,San Diego,3.3,385,$,Yes,8 AM - 10 PM
+Restaurant 438,Mediterranean,Houston,1.6,1075,$$$,Yes,8 AM - 10 PM
+Restaurant 439,Mediterranean,Phoenix,3.2,1966,$$$,No,8 AM - 10 PM
+Restaurant 440,Vietnamese,Houston,3.7,343,$$$,Yes,10 AM - 11 PM
+Restaurant 441,Mediterranean,Los Angeles,4.0,1323,$$$,Yes,24 Hours
+Restaurant 442,Vietnamese,Houston,4.3,926,$$$,Yes,24 Hours
+Restaurant 443,French,New York,4.2,367,$$$$,Yes,11 AM - 12 AM
+Restaurant 444,American,Jacksonville,1.9,350,$$$$,No,8 AM - 10 PM
+Restaurant 445,American,San Jose,2.3,815,$$$,Yes,10 AM - 11 PM
+Restaurant 446,American,Dallas,1.7,1344,$$,Yes,9 AM - 9 PM
+Restaurant 447,French,Phoenix,2.7,197,$$$$,No,10 AM - 11 PM
+Restaurant 448,Thai,Jacksonville,2.4,1510,$$,Yes,9 AM - 9 PM
+Restaurant 449,Japanese,Phoenix,1.2,1861,$$$,No,24 Hours
+Restaurant 450,French,New York,2.4,1820,$$,Yes,8 AM - 10 PM
+Restaurant 451,Japanese,Phoenix,1.7,1947,$$$$,No,10 AM - 11 PM
+Restaurant 452,Thai,Houston,4.9,973,$$,Yes,9 AM - 9 PM
+Restaurant 453,American,Jacksonville,2.6,218,$,No,11 AM - 12 AM
+Restaurant 454,Thai,Chicago,3.2,996,$,Yes,9 AM - 9 PM
+Restaurant 455,Japanese,Houston,4.9,1370,$$$$,No,8 AM - 10 PM
+Restaurant 456,American,Austin,4.2,503,$$,Yes,24 Hours
+Restaurant 457,Chinese,Austin,1.6,1463,$$$,No,8 AM - 10 PM
+Restaurant 458,American,Austin,1.3,77,$,No,11 AM - 12 AM
+Restaurant 459,Italian,San Jose,4.6,1298,$,No,9 AM - 9 PM
+Restaurant 460,Mediterranean,Los Angeles,1.6,593,$$$$,Yes,8 AM - 10 PM
+Restaurant 461,American,Phoenix,3.7,37,$,Yes,9 AM - 9 PM
+Restaurant 462,Chinese,New York,2.2,1679,$$$,No,10 AM - 11 PM
+Restaurant 463,Vietnamese,Dallas,3.5,1788,$$,Yes,9 AM - 9 PM
+Restaurant 464,French,Phoenix,3.1,878,$$$$,Yes,24 Hours
+Restaurant 465,Vietnamese,New York,2.5,1789,$$,Yes,11 AM - 12 AM
+Restaurant 466,American,Chicago,2.0,1308,$$,No,10 AM - 11 PM
+Restaurant 467,Indian,Jacksonville,3.0,601,$$,No,8 AM - 10 PM
+Restaurant 468,Mediterranean,Jacksonville,1.2,1631,$$,No,24 Hours
+Restaurant 469,American,Houston,3.5,557,$$$,No,8 AM - 10 PM
+Restaurant 470,Mexican,Phoenix,2.4,1716,$,Yes,10 AM - 11 PM
+Restaurant 471,Vietnamese,Chicago,2.6,636,$,No,24 Hours
+Restaurant 472,French,Austin,4.7,36,$$,Yes,8 AM - 10 PM
+Restaurant 473,Mediterranean,Houston,3.7,1798,$$$,Yes,11 AM - 12 AM
+Restaurant 474,Thai,Austin,2.3,299,$$$,No,10 AM - 11 PM
+Restaurant 475,American,New York,4.8,1370,$,Yes,24 Hours
+Restaurant 476,Chinese,Dallas,4.3,1915,$$,Yes,9 AM - 9 PM
+Restaurant 477,Mexican,Dallas,3.6,840,$,No,8 AM - 10 PM
+Restaurant 478,American,Austin,3.7,369,$$$,No,10 AM - 11 PM
+Restaurant 479,Vietnamese,Jacksonville,4.3,35,$$,Yes,10 AM - 11 PM
+Restaurant 480,Thai,Dallas,4.1,1241,$$,No,9 AM - 9 PM
+Restaurant 481,French,San Diego,4.1,621,$$$,No,9 AM - 9 PM
+Restaurant 482,Chinese,Los Angeles,3.4,1926,$$,No,9 AM - 9 PM
+Restaurant 483,Italian,New York,2.1,633,$$$,Yes,8 AM - 10 PM
+Restaurant 484,Chinese,Dallas,4.2,1190,$,Yes,8 AM - 10 PM
+Restaurant 485,Chinese,Chicago,4.5,1938,$$$$,Yes,11 AM - 12 AM
+Restaurant 486,Indian,Houston,4.4,1670,$$$$,Yes,9 AM - 9 PM
+Restaurant 487,Japanese,Austin,2.2,1143,$$$$,No,24 Hours
+Restaurant 488,American,Phoenix,1.5,1514,$$,Yes,8 AM - 10 PM
+Restaurant 489,Italian,Jacksonville,3.4,894,$$$,No,10 AM - 11 PM
+Restaurant 490,Japanese,Los Angeles,3.6,359,$$,Yes,10 AM - 11 PM
+Restaurant 491,Italian,San Diego,2.2,1747,$$$,Yes,8 AM - 10 PM
+Restaurant 492,Indian,Los Angeles,3.3,1816,$$,No,24 Hours
+Restaurant 493,Mediterranean,Phoenix,3.5,1238,$,No,8 AM - 10 PM
+Restaurant 494,Mediterranean,Jacksonville,2.1,621,$$$$,Yes,10 AM - 11 PM
+Restaurant 495,Mediterranean,San Diego,4.3,270,$$$$,No,9 AM - 9 PM
+Restaurant 496,Mexican,San Jose,1.4,381,$,Yes,10 AM - 11 PM
+Restaurant 497,Vietnamese,Phoenix,3.2,1662,$,Yes,24 Hours
+Restaurant 498,French,Chicago,4.9,67,$$$,Yes,9 AM - 9 PM
+Restaurant 499,Vietnamese,Dallas,3.3,1747,$$$$,Yes,10 AM - 11 PM
+Restaurant 500,Japanese,San Diego,2.5,1051,$$,No,9 AM - 9 PM
+Restaurant 501,Thai,Chicago,2.1,1231,$$,Yes,11 AM - 12 AM
+Restaurant 502,Thai,Houston,1.4,1369,$$$$,Yes,9 AM - 9 PM
+Restaurant 503,Mediterranean,Jacksonville,2.7,551,$$$,Yes,8 AM - 10 PM
+Restaurant 504,Thai,Houston,2.0,903,$,No,9 AM - 9 PM
+Restaurant 505,Vietnamese,Dallas,3.2,1939,$$$$,Yes,8 AM - 10 PM
+Restaurant 506,Mediterranean,Chicago,2.9,1035,$,Yes,9 AM - 9 PM
+Restaurant 507,French,New York,2.7,1150,$$$$,No,24 Hours
+Restaurant 508,Chinese,New York,3.1,1058,$$$$,Yes,24 Hours
+Restaurant 509,Mexican,New York,1.9,810,$$$$,No,8 AM - 10 PM
+Restaurant 510,Japanese,San Diego,3.6,568,$$,No,8 AM - 10 PM
+Restaurant 511,Mexican,San Diego,3.9,841,$$$,No,24 Hours
+Restaurant 512,American,Dallas,2.2,917,$$,No,10 AM - 11 PM
+Restaurant 513,Indian,Los Angeles,4.9,1128,$$,Yes,11 AM - 12 AM
+Restaurant 514,Thai,San Jose,3.6,376,$$$$,Yes,11 AM - 12 AM
+Restaurant 515,American,Chicago,3.1,798,$$$,No,8 AM - 10 PM
+Restaurant 516,Vietnamese,Chicago,4.7,255,$$,No,11 AM - 12 AM
+Restaurant 517,Thai,Phoenix,4.0,1841,$$$$,Yes,9 AM - 9 PM
+Restaurant 518,Indian,San Diego,2.9,24,$,No,9 AM - 9 PM
+Restaurant 519,Japanese,Austin,2.1,141,$$$$,Yes,10 AM - 11 PM
+Restaurant 520,Mexican,Jacksonville,4.6,348,$$,No,10 AM - 11 PM
+Restaurant 521,Chinese,San Jose,2.5,1256,$$,No,24 Hours
+Restaurant 522,Italian,Los Angeles,4.5,1680,$$,Yes,24 Hours
+Restaurant 523,Chinese,Jacksonville,1.5,1486,$$,No,9 AM - 9 PM
+Restaurant 524,Mexican,Houston,2.3,32,$$$,Yes,10 AM - 11 PM
+Restaurant 525,American,San Jose,1.5,1069,$$,No,24 Hours
+Restaurant 526,French,New York,3.9,539,$$$,No,24 Hours
+Restaurant 527,French,Dallas,4.4,375,$,No,10 AM - 11 PM
+Restaurant 528,French,Los Angeles,1.6,1214,$$,No,9 AM - 9 PM
+Restaurant 529,Mediterranean,Los Angeles,3.3,1717,$,Yes,11 AM - 12 AM
+Restaurant 530,Chinese,San Diego,1.2,789,$$$,Yes,8 AM - 10 PM
+Restaurant 531,Mexican,New York,2.7,709,$$,Yes,9 AM - 9 PM
+Restaurant 532,Japanese,San Diego,1.8,1940,$$$,Yes,9 AM - 9 PM
+Restaurant 533,American,Austin,1.9,1399,$$,No,8 AM - 10 PM
+Restaurant 534,Thai,Austin,2.0,1001,$$,Yes,24 Hours
+Restaurant 535,American,New York,3.3,892,$$$$,No,10 AM - 11 PM
+Restaurant 536,Chinese,New York,4.8,13,$,Yes,11 AM - 12 AM
+Restaurant 537,Italian,Austin,2.2,925,$,No,8 AM - 10 PM
+Restaurant 538,Japanese,Chicago,2.4,779,$$$,Yes,9 AM - 9 PM
+Restaurant 539,Thai,Phoenix,1.7,903,$$$,Yes,11 AM - 12 AM
+Restaurant 540,Vietnamese,Dallas,3.0,363,$,No,24 Hours
+Restaurant 541,American,Jacksonville,4.8,1780,$$,Yes,24 Hours
+Restaurant 542,Japanese,Dallas,2.8,1959,$$$,Yes,8 AM - 10 PM
+Restaurant 543,Italian,Chicago,2.6,316,$$$,No,11 AM - 12 AM
+Restaurant 544,Vietnamese,Chicago,3.2,304,$$,Yes,24 Hours
+Restaurant 545,Vietnamese,Austin,2.2,448,$$$$,No,24 Hours
+Restaurant 546,Indian,San Jose,3.6,72,$$,Yes,10 AM - 11 PM
+Restaurant 547,American,San Jose,3.6,1997,$,Yes,11 AM - 12 AM
+Restaurant 548,American,Jacksonville,1.3,792,$$$$,Yes,10 AM - 11 PM
+Restaurant 549,Mediterranean,Austin,3.7,969,$$$$,Yes,9 AM - 9 PM
+Restaurant 550,Mediterranean,Austin,4.7,833,$$$$,No,11 AM - 12 AM
+Restaurant 551,Vietnamese,Chicago,1.4,1291,$,No,10 AM - 11 PM
+Restaurant 552,Thai,Austin,2.8,1499,$$$,No,10 AM - 11 PM
+Restaurant 553,Italian,Jacksonville,1.9,677,$$,No,8 AM - 10 PM
+Restaurant 554,Italian,Jacksonville,1.5,1055,$,Yes,8 AM - 10 PM
+Restaurant 555,French,Los Angeles,4.3,1855,$$,No,11 AM - 12 AM
+Restaurant 556,Italian,Dallas,2.9,276,$$$$,No,24 Hours
+Restaurant 557,Chinese,Los Angeles,1.4,260,$,Yes,8 AM - 10 PM
+Restaurant 558,Mexican,Phoenix,4.7,1885,$$$$,Yes,10 AM - 11 PM
+Restaurant 559,Chinese,Austin,2.5,388,$$$$,No,9 AM - 9 PM
+Restaurant 560,Japanese,Jacksonville,1.5,1248,$$$$,Yes,10 AM - 11 PM
+Restaurant 561,Mediterranean,Dallas,2.9,1229,$,Yes,9 AM - 9 PM
+Restaurant 562,French,San Diego,3.6,1638,$$,Yes,24 Hours
+Restaurant 563,Chinese,San Jose,2.3,1983,$$,Yes,11 AM - 12 AM
+Restaurant 564,Italian,Los Angeles,2.7,101,$$$$,No,24 Hours
+Restaurant 565,Japanese,San Jose,4.9,666,$$$$,Yes,10 AM - 11 PM
+Restaurant 566,Indian,San Diego,2.1,1834,$$$$,No,11 AM - 12 AM
+Restaurant 567,Mediterranean,New York,3.7,1343,$,Yes,9 AM - 9 PM
+Restaurant 568,Japanese,San Jose,2.4,823,$$$,Yes,8 AM - 10 PM
+Restaurant 569,French,Los Angeles,3.2,185,$,Yes,11 AM - 12 AM
+Restaurant 570,Mediterranean,San Diego,3.5,326,$,Yes,11 AM - 12 AM
+Restaurant 571,Mediterranean,Jacksonville,4.3,1097,$$,No,10 AM - 11 PM
+Restaurant 572,Mediterranean,Austin,1.8,95,$$,No,24 Hours
+Restaurant 573,Japanese,Jacksonville,2.8,1794,$$$,No,11 AM - 12 AM
+Restaurant 574,French,Jacksonville,5.0,93,$$$,Yes,9 AM - 9 PM
+Restaurant 575,Mexican,Houston,4.2,1423,$,No,24 Hours
+Restaurant 576,French,Jacksonville,1.8,976,$$$$,Yes,10 AM - 11 PM
+Restaurant 577,American,San Diego,2.3,1560,$$,Yes,8 AM - 10 PM
+Restaurant 578,Indian,New York,4.1,1511,$$$,Yes,9 AM - 9 PM
+Restaurant 579,Mediterranean,San Diego,4.1,1770,$$$$,Yes,24 Hours
+Restaurant 580,American,San Diego,3.6,1342,$$$$,Yes,10 AM - 11 PM
+Restaurant 581,Vietnamese,San Jose,2.7,44,$,No,11 AM - 12 AM
+Restaurant 582,Japanese,Austin,2.0,673,$$,Yes,10 AM - 11 PM
+Restaurant 583,Thai,San Jose,1.5,1766,$,Yes,8 AM - 10 PM
+Restaurant 584,Italian,San Jose,3.4,102,$$$,Yes,8 AM - 10 PM
+Restaurant 585,Mexican,San Jose,3.3,821,$,Yes,8 AM - 10 PM
+Restaurant 586,American,New York,4.7,293,$$$$,Yes,24 Hours
+Restaurant 587,American,San Jose,2.3,679,$$,Yes,10 AM - 11 PM
+Restaurant 588,Japanese,Phoenix,3.1,1225,$$$$,No,11 AM - 12 AM
+Restaurant 589,Thai,Houston,2.4,119,$$$,Yes,24 Hours
+Restaurant 590,French,Austin,2.6,216,$$$,Yes,9 AM - 9 PM
+Restaurant 591,Mediterranean,Chicago,3.9,1476,$$$,No,11 AM - 12 AM
+Restaurant 592,Indian,Houston,1.1,683,$$,No,11 AM - 12 AM
+Restaurant 593,Mexican,Houston,3.4,1117,$$,No,9 AM - 9 PM
+Restaurant 594,American,Los Angeles,1.9,1011,$$$,Yes,24 Hours
+Restaurant 595,Indian,Austin,3.4,1519,$$$$,Yes,10 AM - 11 PM
+Restaurant 596,Italian,Dallas,3.1,936,$,Yes,24 Hours
+Restaurant 597,Vietnamese,Chicago,3.5,1846,$$$,Yes,8 AM - 10 PM
+Restaurant 598,Japanese,Jacksonville,3.8,223,$$$$,No,10 AM - 11 PM
+Restaurant 599,Indian,Chicago,4.9,310,$$$$,Yes,8 AM - 10 PM
+Restaurant 600,American,Jacksonville,3.3,209,$$$,No,8 AM - 10 PM
+Restaurant 601,American,Los Angeles,2.5,1465,$$,No,24 Hours
+Restaurant 602,Mexican,Chicago,3.0,421,$,Yes,10 AM - 11 PM
+Restaurant 603,French,Houston,2.1,1071,$$,Yes,8 AM - 10 PM
+Restaurant 604,Japanese,Houston,4.5,1547,$$$$,Yes,11 AM - 12 AM
+Restaurant 605,Thai,Phoenix,3.0,946,$$,Yes,24 Hours
+Restaurant 606,American,Dallas,1.1,183,$$$$,No,10 AM - 11 PM
+Restaurant 607,Thai,Los Angeles,3.5,125,$$,No,24 Hours
+Restaurant 608,Italian,Jacksonville,1.6,437,$$$,No,10 AM - 11 PM
+Restaurant 609,Indian,San Diego,3.4,109,$$,No,24 Hours
+Restaurant 610,Mediterranean,Chicago,3.9,20,$$,Yes,8 AM - 10 PM
+Restaurant 611,Japanese,Dallas,3.8,478,$$$$,Yes,11 AM - 12 AM
+Restaurant 612,American,Houston,3.8,1270,$$$,No,8 AM - 10 PM
+Restaurant 613,Thai,Chicago,4.2,512,$$$,No,10 AM - 11 PM
+Restaurant 614,French,Houston,4.9,1313,$,Yes,10 AM - 11 PM
+Restaurant 615,Chinese,San Jose,2.0,651,$$$,No,11 AM - 12 AM
+Restaurant 616,Mediterranean,San Diego,4.3,827,$,No,10 AM - 11 PM
+Restaurant 617,Indian,Austin,3.9,309,$$$$,Yes,9 AM - 9 PM
+Restaurant 618,Chinese,New York,3.6,501,$$$,Yes,8 AM - 10 PM
+Restaurant 619,Vietnamese,Chicago,3.3,1981,$$$$,Yes,11 AM - 12 AM
+Restaurant 620,Indian,New York,2.7,1994,$$$$,No,24 Hours
+Restaurant 621,Vietnamese,San Diego,1.4,1579,$$$$,No,24 Hours
+Restaurant 622,Japanese,Austin,2.2,1214,$$$$,Yes,9 AM - 9 PM
+Restaurant 623,American,Phoenix,3.5,1620,$,Yes,11 AM - 12 AM
+Restaurant 624,Thai,Phoenix,1.6,98,$$,Yes,24 Hours
+Restaurant 625,Chinese,New York,3.1,1393,$$$$,Yes,24 Hours
+Restaurant 626,Japanese,Los Angeles,2.3,1077,$$$$,Yes,8 AM - 10 PM
+Restaurant 627,Vietnamese,Jacksonville,3.2,291,$$$,No,8 AM - 10 PM
+Restaurant 628,Japanese,Phoenix,2.8,1820,$$,No,8 AM - 10 PM
+Restaurant 629,Thai,San Jose,3.6,371,$$$$,No,24 Hours
+Restaurant 630,Japanese,San Diego,1.3,482,$$$$,Yes,10 AM - 11 PM
+Restaurant 631,Vietnamese,Phoenix,2.3,879,$,Yes,9 AM - 9 PM
+Restaurant 632,Mexican,Jacksonville,4.1,760,$,No,24 Hours
+Restaurant 633,Indian,Phoenix,2.5,1441,$,No,24 Hours
+Restaurant 634,Thai,Dallas,1.1,43,$,No,9 AM - 9 PM
+Restaurant 635,Thai,Austin,4.0,343,$$$$,No,8 AM - 10 PM
+Restaurant 636,Japanese,San Jose,3.3,199,$$,No,8 AM - 10 PM
+Restaurant 637,American,Chicago,3.2,921,$,No,11 AM - 12 AM
+Restaurant 638,Japanese,Houston,3.1,1071,$$$,No,9 AM - 9 PM
+Restaurant 639,Japanese,Austin,4.6,588,$$,Yes,10 AM - 11 PM
+Restaurant 640,Indian,Houston,1.4,1049,$$$$,Yes,10 AM - 11 PM
+Restaurant 641,Italian,Chicago,3.5,995,$$$$,No,11 AM - 12 AM
+Restaurant 642,Vietnamese,Chicago,4.7,284,$$$,No,10 AM - 11 PM
+Restaurant 643,Mexican,Dallas,1.8,238,$,No,8 AM - 10 PM
+Restaurant 644,Indian,Los Angeles,1.7,1561,$$,Yes,11 AM - 12 AM
+Restaurant 645,Thai,Chicago,1.4,557,$$$$,Yes,11 AM - 12 AM
+Restaurant 646,Vietnamese,Phoenix,1.3,691,$$,No,24 Hours
+Restaurant 647,Indian,Dallas,3.5,1169,$$$,Yes,9 AM - 9 PM
+Restaurant 648,Italian,Phoenix,1.8,1137,$,Yes,8 AM - 10 PM
+Restaurant 649,Italian,Los Angeles,2.5,547,$$$$,Yes,11 AM - 12 AM
+Restaurant 650,Vietnamese,Phoenix,4.8,184,$$,Yes,8 AM - 10 PM
+Restaurant 651,Vietnamese,San Diego,4.4,180,$,No,11 AM - 12 AM
+Restaurant 652,Japanese,Phoenix,1.5,385,$$$,No,10 AM - 11 PM
+Restaurant 653,Italian,Chicago,3.5,901,$$,No,8 AM - 10 PM
+Restaurant 654,Indian,New York,3.9,432,$,No,24 Hours
+Restaurant 655,French,Houston,4.2,245,$$$$,No,10 AM - 11 PM
+Restaurant 656,French,Austin,1.8,1611,$$,Yes,10 AM - 11 PM
+Restaurant 657,Chinese,Chicago,3.7,1779,$$,Yes,9 AM - 9 PM
+Restaurant 658,Mediterranean,San Jose,2.6,1425,$$,No,10 AM - 11 PM
+Restaurant 659,Chinese,Jacksonville,3.8,557,$$$$,Yes,9 AM - 9 PM
+Restaurant 660,Indian,San Jose,3.9,159,$$$,No,8 AM - 10 PM
+Restaurant 661,Japanese,Jacksonville,1.0,586,$$$$,No,9 AM - 9 PM
+Restaurant 662,American,San Jose,1.7,1769,$$$,No,10 AM - 11 PM
+Restaurant 663,Mediterranean,Los Angeles,2.7,135,$$$,No,24 Hours
+Restaurant 664,Thai,New York,1.1,1604,$$,No,11 AM - 12 AM
+Restaurant 665,Thai,San Diego,3.9,1215,$$,No,10 AM - 11 PM
+Restaurant 666,Mexican,Austin,4.4,1527,$,Yes,11 AM - 12 AM
+Restaurant 667,Vietnamese,Jacksonville,1.9,1068,$,Yes,11 AM - 12 AM
+Restaurant 668,American,Los Angeles,4.0,182,$$$,Yes,9 AM - 9 PM
+Restaurant 669,Thai,San Diego,2.1,626,$,No,9 AM - 9 PM
+Restaurant 670,Mediterranean,Jacksonville,3.0,1626,$$$,No,9 AM - 9 PM
+Restaurant 671,Italian,Chicago,3.2,964,$$,No,10 AM - 11 PM
+Restaurant 672,Italian,Austin,4.7,1152,$$,No,10 AM - 11 PM
+Restaurant 673,Chinese,San Jose,2.2,722,$$$$,No,11 AM - 12 AM
+Restaurant 674,Japanese,San Diego,3.4,662,$,No,8 AM - 10 PM
+Restaurant 675,Mediterranean,Austin,3.5,1088,$$$$,No,24 Hours
+Restaurant 676,Mexican,Phoenix,1.6,1132,$,No,8 AM - 10 PM
+Restaurant 677,American,San Diego,1.7,1295,$$$,No,9 AM - 9 PM
+Restaurant 678,Mexican,Los Angeles,4.3,1444,$$,Yes,9 AM - 9 PM
+Restaurant 679,Mexican,Los Angeles,1.1,1976,$$$$,No,8 AM - 10 PM
+Restaurant 680,American,Los Angeles,1.4,503,$$$,No,8 AM - 10 PM
+Restaurant 681,French,Phoenix,2.8,1563,$,Yes,11 AM - 12 AM
+Restaurant 682,Mediterranean,New York,1.7,237,$,No,9 AM - 9 PM
+Restaurant 683,Mediterranean,Dallas,1.7,1162,$,No,10 AM - 11 PM
+Restaurant 684,Mexican,Los Angeles,3.5,125,$$$,Yes,8 AM - 10 PM
+Restaurant 685,French,Dallas,1.9,1960,$$$,Yes,24 Hours
+Restaurant 686,Italian,Houston,4.4,1917,$$$,No,9 AM - 9 PM
+Restaurant 687,Japanese,San Diego,3.5,1783,$,Yes,9 AM - 9 PM
+Restaurant 688,Mediterranean,Phoenix,2.1,427,$,No,11 AM - 12 AM
+Restaurant 689,Japanese,Jacksonville,3.6,1699,$$,No,8 AM - 10 PM
+Restaurant 690,French,Phoenix,4.8,1649,$$$,Yes,24 Hours
+Restaurant 691,Vietnamese,Los Angeles,3.0,206,$$,Yes,10 AM - 11 PM
+Restaurant 692,Vietnamese,Phoenix,1.1,1390,$$$,Yes,8 AM - 10 PM
+Restaurant 693,Japanese,Austin,3.8,1176,$$$,Yes,9 AM - 9 PM
+Restaurant 694,French,San Jose,1.2,1998,$$$,Yes,10 AM - 11 PM
+Restaurant 695,Mexican,Los Angeles,3.8,517,$$$,No,11 AM - 12 AM
+Restaurant 696,Vietnamese,San Jose,4.5,303,$,Yes,11 AM - 12 AM
+Restaurant 697,Chinese,Dallas,2.3,1996,$,No,10 AM - 11 PM
+Restaurant 698,Indian,New York,2.9,1373,$$$$,Yes,8 AM - 10 PM
+Restaurant 699,Mexican,San Diego,1.2,464,$$$$,Yes,10 AM - 11 PM
+Restaurant 700,Chinese,Chicago,1.4,1181,$$,No,8 AM - 10 PM
+Restaurant 701,Italian,Phoenix,2.8,1389,$$,No,10 AM - 11 PM
+Restaurant 702,French,Austin,4.3,346,$,Yes,8 AM - 10 PM
+Restaurant 703,Japanese,Austin,1.9,318,$,Yes,10 AM - 11 PM
+Restaurant 704,Mexican,Houston,4.9,370,$$$,No,10 AM - 11 PM
+Restaurant 705,French,Jacksonville,3.7,513,$$$,Yes,9 AM - 9 PM
+Restaurant 706,Italian,Jacksonville,3.4,776,$$$,Yes,9 AM - 9 PM
+Restaurant 707,Mexican,Jacksonville,2.7,631,$$$,No,24 Hours
+Restaurant 708,Italian,Chicago,1.1,1549,$$,Yes,8 AM - 10 PM
+Restaurant 709,Japanese,San Diego,2.8,1772,$$$,Yes,10 AM - 11 PM
+Restaurant 710,Indian,San Diego,3.3,909,$,Yes,9 AM - 9 PM
+Restaurant 711,Japanese,Dallas,3.8,798,$$$,Yes,10 AM - 11 PM
+Restaurant 712,Chinese,Chicago,1.5,325,$,Yes,11 AM - 12 AM
+Restaurant 713,Chinese,Houston,3.2,1834,$$$,No,10 AM - 11 PM
+Restaurant 714,Indian,Dallas,3.4,988,$$,No,8 AM - 10 PM
+Restaurant 715,Indian,New York,2.6,692,$$$$,Yes,8 AM - 10 PM
+Restaurant 716,Thai,San Diego,4.0,1781,$$,No,10 AM - 11 PM
+Restaurant 717,French,Austin,1.3,1863,$,No,8 AM - 10 PM
+Restaurant 718,Vietnamese,New York,2.9,1182,$,Yes,9 AM - 9 PM
+Restaurant 719,Mexican,Dallas,1.1,1483,$$$$,No,8 AM - 10 PM
+Restaurant 720,American,Phoenix,4.4,1493,$$$$,Yes,11 AM - 12 AM
+Restaurant 721,Italian,Chicago,3.1,795,$$$,Yes,8 AM - 10 PM
+Restaurant 722,Italian,Austin,1.0,1044,$$,Yes,8 AM - 10 PM
+Restaurant 723,French,San Diego,2.7,1208,$,No,11 AM - 12 AM
+Restaurant 724,Vietnamese,Austin,4.7,127,$,Yes,8 AM - 10 PM
+Restaurant 725,Mexican,Phoenix,2.1,1344,$,Yes,11 AM - 12 AM
+Restaurant 726,Mexican,Phoenix,4.7,1530,$$,Yes,9 AM - 9 PM
+Restaurant 727,Chinese,Phoenix,3.2,566,$$,No,10 AM - 11 PM
+Restaurant 728,French,Phoenix,3.9,1506,$$$,No,11 AM - 12 AM
+Restaurant 729,Indian,Austin,1.6,1462,$$$,No,11 AM - 12 AM
+Restaurant 730,Italian,San Jose,2.3,413,$,No,8 AM - 10 PM
+Restaurant 731,Indian,Phoenix,3.2,825,$,No,9 AM - 9 PM
+Restaurant 732,Japanese,New York,1.8,1280,$$$$,Yes,8 AM - 10 PM
+Restaurant 733,Chinese,Phoenix,3.1,1170,$$$,No,11 AM - 12 AM
+Restaurant 734,Indian,San Jose,1.3,1920,$$,Yes,24 Hours
+Restaurant 735,Thai,New York,2.8,1291,$,No,24 Hours
+Restaurant 736,American,Houston,2.3,1488,$$,Yes,24 Hours
+Restaurant 737,Vietnamese,Phoenix,4.0,1644,$$$,Yes,9 AM - 9 PM
+Restaurant 738,French,New York,2.2,588,$$$$,Yes,9 AM - 9 PM
+Restaurant 739,Italian,Dallas,5.0,1971,$$$$,No,8 AM - 10 PM
+Restaurant 740,American,San Diego,1.3,828,$$$,Yes,8 AM - 10 PM
+Restaurant 741,Indian,San Jose,2.8,1579,$$$,Yes,9 AM - 9 PM
+Restaurant 742,French,Phoenix,4.1,1923,$,No,11 AM - 12 AM
+Restaurant 743,French,Houston,3.7,1805,$,Yes,9 AM - 9 PM
+Restaurant 744,Italian,Dallas,2.9,17,$$,No,8 AM - 10 PM
+Restaurant 745,French,Austin,1.7,293,$$$,Yes,11 AM - 12 AM
+Restaurant 746,Mediterranean,Austin,2.1,1449,$$$,Yes,9 AM - 9 PM
+Restaurant 747,Chinese,New York,3.1,502,$$$,No,9 AM - 9 PM
+Restaurant 748,Indian,Jacksonville,2.7,1713,$$$,Yes,24 Hours
+Restaurant 749,Vietnamese,Los Angeles,1.0,1660,$,Yes,9 AM - 9 PM
+Restaurant 750,Mexican,Phoenix,4.4,1659,$,Yes,10 AM - 11 PM
+Restaurant 751,Mediterranean,Austin,4.6,1669,$$$$,Yes,24 Hours
+Restaurant 752,Mexican,Los Angeles,2.7,1500,$$,Yes,9 AM - 9 PM
+Restaurant 753,American,Phoenix,3.7,355,$$,No,9 AM - 9 PM
+Restaurant 754,Indian,Chicago,2.4,1460,$$$,Yes,9 AM - 9 PM
+Restaurant 755,American,Austin,2.7,672,$$,No,9 AM - 9 PM
+Restaurant 756,Indian,Dallas,2.6,281,$$$$,Yes,8 AM - 10 PM
+Restaurant 757,American,Dallas,2.5,418,$$$,Yes,9 AM - 9 PM
+Restaurant 758,Japanese,New York,1.1,1699,$$$$,Yes,8 AM - 10 PM
+Restaurant 759,Japanese,Houston,3.0,1244,$$$$,No,11 AM - 12 AM
+Restaurant 760,Italian,Austin,1.5,1613,$$$$,Yes,8 AM - 10 PM
+Restaurant 761,Mediterranean,Dallas,5.0,280,$,No,9 AM - 9 PM
+Restaurant 762,Japanese,Houston,5.0,940,$$$$,No,9 AM - 9 PM
+Restaurant 763,Mediterranean,New York,3.5,1542,$$$,No,10 AM - 11 PM
+Restaurant 764,Thai,Los Angeles,1.9,215,$,Yes,11 AM - 12 AM
+Restaurant 765,Chinese,Austin,4.9,858,$$,No,24 Hours
+Restaurant 766,Indian,San Diego,3.8,1582,$$,Yes,10 AM - 11 PM
+Restaurant 767,American,Chicago,4.9,1042,$$,Yes,11 AM - 12 AM
+Restaurant 768,Mexican,Austin,1.7,501,$,No,10 AM - 11 PM
+Restaurant 769,Thai,Houston,4.7,556,$$$,No,11 AM - 12 AM
+Restaurant 770,Chinese,Austin,1.9,486,$$,No,9 AM - 9 PM
+Restaurant 771,Chinese,Chicago,1.6,489,$$$,Yes,9 AM - 9 PM
+Restaurant 772,Mexican,Houston,2.1,953,$$,Yes,24 Hours
+Restaurant 773,American,New York,4.7,1407,$,No,11 AM - 12 AM
+Restaurant 774,American,Jacksonville,3.5,863,$$,Yes,9 AM - 9 PM
+Restaurant 775,Italian,San Jose,4.0,519,$$$,No,24 Hours
+Restaurant 776,French,Los Angeles,4.4,1856,$$$$,Yes,24 Hours
+Restaurant 777,Mediterranean,Los Angeles,4.1,1289,$$$,No,10 AM - 11 PM
+Restaurant 778,Mediterranean,Phoenix,4.0,125,$$$$,Yes,11 AM - 12 AM
+Restaurant 779,Italian,Houston,1.6,1531,$$$,No,11 AM - 12 AM
+Restaurant 780,Vietnamese,San Jose,3.5,18,$,No,9 AM - 9 PM
+Restaurant 781,Indian,Chicago,1.6,1200,$$,No,11 AM - 12 AM
+Restaurant 782,Mexican,Chicago,4.3,1815,$$,No,24 Hours
+Restaurant 783,Indian,Dallas,4.0,1386,$,Yes,8 AM - 10 PM
+Restaurant 784,French,Dallas,3.4,423,$$,Yes,11 AM - 12 AM
+Restaurant 785,American,San Jose,4.5,1494,$$$,No,11 AM - 12 AM
+Restaurant 786,Chinese,San Diego,5.0,1540,$$$$,Yes,11 AM - 12 AM
+Restaurant 787,Chinese,Houston,4.1,1503,$$$,Yes,24 Hours
+Restaurant 788,Indian,Dallas,4.3,194,$$$$,No,9 AM - 9 PM
+Restaurant 789,American,Los Angeles,1.6,900,$,Yes,11 AM - 12 AM
+Restaurant 790,Thai,Austin,2.3,975,$$$,No,8 AM - 10 PM
+Restaurant 791,Japanese,Austin,3.0,884,$$,Yes,9 AM - 9 PM
+Restaurant 792,Japanese,Los Angeles,1.6,1035,$,No,24 Hours
+Restaurant 793,Mediterranean,Los Angeles,1.7,1670,$,Yes,10 AM - 11 PM
+Restaurant 794,Mexican,Houston,3.8,1359,$$$,No,24 Hours
+Restaurant 795,Indian,Los Angeles,1.2,1696,$$,No,8 AM - 10 PM
+Restaurant 796,Vietnamese,Los Angeles,1.1,1401,$$,No,9 AM - 9 PM
+Restaurant 797,Chinese,Phoenix,3.4,1480,$$$,Yes,11 AM - 12 AM
+Restaurant 798,Japanese,Chicago,4.2,1369,$$,Yes,11 AM - 12 AM
+Restaurant 799,Japanese,Austin,3.6,990,$$$$,No,24 Hours
+Restaurant 800,Indian,New York,2.0,415,$$$$,Yes,11 AM - 12 AM
+Restaurant 801,Mexican,Austin,2.7,1843,$$$,Yes,9 AM - 9 PM
+Restaurant 802,Chinese,San Diego,4.6,1949,$$,Yes,11 AM - 12 AM
+Restaurant 803,Mexican,Houston,4.4,1701,$$$$,Yes,11 AM - 12 AM
+Restaurant 804,Mexican,Phoenix,3.4,1826,$$$$,Yes,8 AM - 10 PM
+Restaurant 805,Mexican,Austin,4.3,739,$$,Yes,9 AM - 9 PM
+Restaurant 806,Italian,New York,4.3,616,$$$$,Yes,24 Hours
+Restaurant 807,American,Los Angeles,3.2,1105,$$$$,Yes,11 AM - 12 AM
+Restaurant 808,Indian,Dallas,1.8,158,$$,No,11 AM - 12 AM
+Restaurant 809,Vietnamese,San Diego,2.0,742,$$,No,9 AM - 9 PM
+Restaurant 810,Mediterranean,Houston,1.2,676,$$$$,No,24 Hours
+Restaurant 811,Thai,Austin,4.2,1744,$$,No,8 AM - 10 PM
+Restaurant 812,American,Los Angeles,3.1,65,$,Yes,10 AM - 11 PM
+Restaurant 813,American,Chicago,2.4,904,$$$$,No,9 AM - 9 PM
+Restaurant 814,French,Dallas,2.8,447,$$$,Yes,8 AM - 10 PM
+Restaurant 815,Thai,Los Angeles,2.2,630,$$,No,10 AM - 11 PM
+Restaurant 816,American,Chicago,1.7,540,$$$$,No,8 AM - 10 PM
+Restaurant 817,American,San Jose,1.7,1854,$$$,No,9 AM - 9 PM
+Restaurant 818,Vietnamese,San Jose,2.4,203,$$$,Yes,10 AM - 11 PM
+Restaurant 819,Indian,Dallas,2.2,1484,$$$,No,10 AM - 11 PM
+Restaurant 820,American,Jacksonville,2.0,1222,$$$$,No,24 Hours
+Restaurant 821,Mexican,New York,3.2,769,$$$,No,8 AM - 10 PM
+Restaurant 822,Italian,New York,3.4,1182,$$$,Yes,10 AM - 11 PM
+Restaurant 823,American,San Jose,4.0,1168,$$,Yes,9 AM - 9 PM
+Restaurant 824,Vietnamese,Phoenix,1.4,621,$$,Yes,11 AM - 12 AM
+Restaurant 825,Thai,Los Angeles,3.2,658,$$,No,24 Hours
+Restaurant 826,Mexican,Houston,4.0,1763,$,Yes,10 AM - 11 PM
+Restaurant 827,Vietnamese,Austin,3.8,653,$$$$,Yes,8 AM - 10 PM
+Restaurant 828,Mediterranean,Houston,2.3,1864,$,Yes,9 AM - 9 PM
+Restaurant 829,Thai,Phoenix,3.0,447,$$$,No,10 AM - 11 PM
+Restaurant 830,Japanese,San Diego,2.7,1249,$,No,9 AM - 9 PM
+Restaurant 831,Indian,San Jose,3.0,414,$$$,Yes,11 AM - 12 AM
+Restaurant 832,Chinese,Dallas,4.9,691,$$$$,Yes,9 AM - 9 PM
+Restaurant 833,American,Chicago,4.1,1171,$$,Yes,8 AM - 10 PM
+Restaurant 834,Mexican,Phoenix,3.6,727,$$,Yes,8 AM - 10 PM
+Restaurant 835,French,San Diego,1.2,1958,$$$$,Yes,24 Hours
+Restaurant 836,French,Chicago,2.6,1882,$$$$,No,9 AM - 9 PM
+Restaurant 837,Vietnamese,Dallas,4.1,867,$$$,Yes,8 AM - 10 PM
+Restaurant 838,Japanese,Phoenix,2.5,1022,$$$$,No,10 AM - 11 PM
+Restaurant 839,Mediterranean,New York,3.0,757,$$,Yes,11 AM - 12 AM
+Restaurant 840,Vietnamese,Dallas,3.2,318,$$,No,8 AM - 10 PM
+Restaurant 841,Italian,Dallas,4.1,183,$$$,No,11 AM - 12 AM
+Restaurant 842,Mexican,San Diego,2.3,110,$,Yes,8 AM - 10 PM
+Restaurant 843,American,Houston,3.5,1067,$$$,Yes,11 AM - 12 AM
+Restaurant 844,Vietnamese,Houston,3.4,1461,$$$,No,11 AM - 12 AM
+Restaurant 845,Mediterranean,Phoenix,1.7,1560,$$,Yes,24 Hours
+Restaurant 846,American,San Jose,2.8,708,$$$,No,11 AM - 12 AM
+Restaurant 847,Mexican,Phoenix,3.6,1666,$,Yes,9 AM - 9 PM
+Restaurant 848,Vietnamese,Dallas,3.5,1854,$$$$,No,11 AM - 12 AM
+Restaurant 849,American,Austin,4.9,1095,$$$$,Yes,8 AM - 10 PM
+Restaurant 850,Indian,Dallas,4.1,1487,$$$$,Yes,9 AM - 9 PM
+Restaurant 851,Japanese,New York,3.0,1324,$$,No,10 AM - 11 PM
+Restaurant 852,Mediterranean,Chicago,2.8,1186,$$$$,No,24 Hours
+Restaurant 853,French,Jacksonville,3.8,1369,$$$$,Yes,10 AM - 11 PM
+Restaurant 854,Thai,Austin,2.7,455,$,Yes,10 AM - 11 PM
+Restaurant 855,Mexican,Austin,4.9,1289,$,Yes,11 AM - 12 AM
+Restaurant 856,Indian,Jacksonville,4.1,1621,$$$$,Yes,8 AM - 10 PM
+Restaurant 857,Italian,Phoenix,1.8,363,$,Yes,8 AM - 10 PM
+Restaurant 858,French,San Jose,4.5,1959,$$$$,No,10 AM - 11 PM
+Restaurant 859,Mediterranean,Dallas,3.0,191,$,Yes,24 Hours
+Restaurant 860,Chinese,Los Angeles,1.3,789,$$$,Yes,8 AM - 10 PM
+Restaurant 861,Mediterranean,San Diego,1.3,1053,$$$,No,9 AM - 9 PM
+Restaurant 862,Japanese,Jacksonville,3.2,1665,$$,No,24 Hours
+Restaurant 863,Italian,Houston,3.4,1611,$$,No,11 AM - 12 AM
+Restaurant 864,Mexican,Los Angeles,4.3,963,$$,Yes,11 AM - 12 AM
+Restaurant 865,French,Chicago,1.3,493,$$$,No,9 AM - 9 PM
+Restaurant 866,French,Chicago,4.4,28,$$$$,Yes,9 AM - 9 PM
+Restaurant 867,Mediterranean,Houston,2.0,1691,$$$$,Yes,8 AM - 10 PM
+Restaurant 868,Thai,Phoenix,1.5,1726,$$,Yes,24 Hours
+Restaurant 869,Italian,New York,2.7,678,$,No,11 AM - 12 AM
+Restaurant 870,Italian,Dallas,3.4,938,$,No,11 AM - 12 AM
+Restaurant 871,Chinese,San Diego,2.9,896,$,No,9 AM - 9 PM
+Restaurant 872,French,Dallas,2.2,1483,$$,Yes,11 AM - 12 AM
+Restaurant 873,Italian,Houston,1.4,210,$$$$,Yes,10 AM - 11 PM
+Restaurant 874,Vietnamese,Jacksonville,4.8,747,$$$$,Yes,9 AM - 9 PM
+Restaurant 875,Japanese,Phoenix,1.5,1902,$,No,8 AM - 10 PM
+Restaurant 876,French,Phoenix,1.3,795,$$$,No,10 AM - 11 PM
+Restaurant 877,Mediterranean,Houston,1.1,384,$$$,Yes,8 AM - 10 PM
+Restaurant 878,French,Austin,4.8,211,$$$$,Yes,8 AM - 10 PM
+Restaurant 879,Japanese,Jacksonville,2.6,1387,$,Yes,9 AM - 9 PM
+Restaurant 880,Mediterranean,Los Angeles,4.6,1886,$,Yes,11 AM - 12 AM
+Restaurant 881,Chinese,Phoenix,4.0,1386,$$$,Yes,9 AM - 9 PM
+Restaurant 882,Chinese,Austin,1.5,1841,$$$,Yes,10 AM - 11 PM
+Restaurant 883,Japanese,Los Angeles,1.5,760,$$$,Yes,11 AM - 12 AM
+Restaurant 884,French,Austin,2.1,1132,$,No,10 AM - 11 PM
+Restaurant 885,Vietnamese,Houston,2.4,803,$$$,No,24 Hours
+Restaurant 886,Japanese,Los Angeles,2.6,1134,$$,Yes,8 AM - 10 PM
+Restaurant 887,Japanese,Dallas,4.6,1833,$$,No,8 AM - 10 PM
+Restaurant 888,Indian,Los Angeles,4.6,1640,$,No,11 AM - 12 AM
+Restaurant 889,Thai,San Jose,3.0,792,$,No,11 AM - 12 AM
+Restaurant 890,Vietnamese,San Jose,3.3,217,$$$,No,8 AM - 10 PM
+Restaurant 891,Vietnamese,San Diego,1.4,1267,$$$,No,8 AM - 10 PM
+Restaurant 892,French,Houston,4.3,1374,$,No,10 AM - 11 PM
+Restaurant 893,Chinese,San Jose,2.7,1364,$$,Yes,11 AM - 12 AM
+Restaurant 894,Chinese,Austin,1.1,1422,$$$$,Yes,11 AM - 12 AM
+Restaurant 895,Indian,Houston,1.4,176,$$$,No,8 AM - 10 PM
+Restaurant 896,Indian,New York,4.9,1109,$$,Yes,24 Hours
+Restaurant 897,Indian,Chicago,1.2,1012,$$$,Yes,8 AM - 10 PM
+Restaurant 898,Mexican,New York,1.3,1617,$$$$,No,8 AM - 10 PM
+Restaurant 899,Mexican,Jacksonville,3.5,408,$$$$,Yes,8 AM - 10 PM
+Restaurant 900,Indian,San Jose,4.9,1168,$,No,9 AM - 9 PM
+Restaurant 901,Italian,Houston,1.3,1793,$$$$,Yes,10 AM - 11 PM
+Restaurant 902,Thai,Jacksonville,2.2,406,$,Yes,11 AM - 12 AM
+Restaurant 903,Chinese,San Diego,3.3,1602,$$,No,10 AM - 11 PM
+Restaurant 904,Thai,Houston,2.0,1528,$$$$,Yes,24 Hours
+Restaurant 905,Chinese,New York,2.7,420,$$$$,No,11 AM - 12 AM
+Restaurant 906,Mexican,Phoenix,4.6,300,$$,No,8 AM - 10 PM
+Restaurant 907,American,Jacksonville,3.5,1227,$$,Yes,10 AM - 11 PM
+Restaurant 908,Thai,Jacksonville,1.4,1020,$$$$,No,10 AM - 11 PM
+Restaurant 909,American,San Diego,1.3,186,$,No,9 AM - 9 PM
+Restaurant 910,Thai,Jacksonville,2.8,1593,$$$,No,11 AM - 12 AM
+Restaurant 911,Italian,Dallas,2.1,203,$$$$,Yes,10 AM - 11 PM
+Restaurant 912,Mediterranean,Chicago,1.8,1361,$,Yes,11 AM - 12 AM
+Restaurant 913,Vietnamese,San Diego,2.5,925,$$$,Yes,11 AM - 12 AM
+Restaurant 914,Indian,New York,1.4,927,$$$,Yes,10 AM - 11 PM
+Restaurant 915,Vietnamese,San Jose,4.5,848,$$$$,No,24 Hours
+Restaurant 916,Mexican,Phoenix,1.6,1621,$$,No,24 Hours
+Restaurant 917,Mexican,Jacksonville,4.3,927,$,No,10 AM - 11 PM
+Restaurant 918,Thai,Phoenix,2.1,1777,$$,No,10 AM - 11 PM
+Restaurant 919,Japanese,San Diego,3.9,660,$$$$,Yes,8 AM - 10 PM
+Restaurant 920,Indian,Houston,3.8,1426,$$$,Yes,24 Hours
+Restaurant 921,Indian,San Jose,2.8,209,$$$,No,11 AM - 12 AM
+Restaurant 922,Mexican,Los Angeles,3.1,60,$$$$,Yes,10 AM - 11 PM
+Restaurant 923,American,San Jose,3.1,1132,$,No,9 AM - 9 PM
+Restaurant 924,Thai,San Jose,4.9,1452,$$$,Yes,11 AM - 12 AM
+Restaurant 925,American,Jacksonville,2.9,1266,$$$$,No,8 AM - 10 PM
+Restaurant 926,Mexican,Chicago,1.4,1298,$$$,No,11 AM - 12 AM
+Restaurant 927,Mediterranean,Austin,4.8,1238,$$,No,8 AM - 10 PM
+Restaurant 928,Thai,Los Angeles,5.0,1951,$$$$,Yes,24 Hours
+Restaurant 929,Vietnamese,Phoenix,1.3,1543,$$$,No,11 AM - 12 AM
+Restaurant 930,French,Dallas,2.6,1319,$$$,No,10 AM - 11 PM
+Restaurant 931,Vietnamese,Houston,1.6,1563,$$,No,10 AM - 11 PM
+Restaurant 932,Mediterranean,Dallas,3.8,1740,$$$,No,24 Hours
+Restaurant 933,Italian,Chicago,3.1,1693,$$,Yes,11 AM - 12 AM
+Restaurant 934,Italian,Houston,2.9,666,$$$$,Yes,11 AM - 12 AM
+Restaurant 935,Mediterranean,Austin,4.6,457,$,Yes,10 AM - 11 PM
+Restaurant 936,Thai,Chicago,2.2,1649,$$,Yes,10 AM - 11 PM
+Restaurant 937,Vietnamese,Houston,5.0,194,$$$$,Yes,9 AM - 9 PM
+Restaurant 938,Vietnamese,Dallas,4.8,1042,$$$,Yes,11 AM - 12 AM
+Restaurant 939,Vietnamese,San Jose,4.0,314,$,Yes,10 AM - 11 PM
+Restaurant 940,Mediterranean,San Diego,3.7,1458,$$$,Yes,8 AM - 10 PM
+Restaurant 941,American,Jacksonville,4.2,854,$,No,10 AM - 11 PM
+Restaurant 942,American,Austin,2.4,825,$$$$,Yes,11 AM - 12 AM
+Restaurant 943,Italian,Phoenix,3.5,18,$$$,Yes,9 AM - 9 PM
+Restaurant 944,Indian,Chicago,1.6,704,$$,Yes,24 Hours
+Restaurant 945,Japanese,Houston,3.4,1044,$,Yes,11 AM - 12 AM
+Restaurant 946,Thai,Chicago,2.5,307,$,Yes,9 AM - 9 PM
+Restaurant 947,Chinese,San Jose,3.8,46,$$$$,No,10 AM - 11 PM
+Restaurant 948,Japanese,San Diego,2.3,374,$,Yes,24 Hours
+Restaurant 949,Mexican,Houston,2.8,791,$,No,8 AM - 10 PM
+Restaurant 950,American,Jacksonville,2.4,173,$$,Yes,11 AM - 12 AM
+Restaurant 951,Indian,Jacksonville,3.6,1174,$$,No,24 Hours
+Restaurant 952,French,New York,4.7,586,$,Yes,9 AM - 9 PM
+Restaurant 953,Italian,Houston,2.6,240,$$,No,9 AM - 9 PM
+Restaurant 954,Italian,Houston,2.3,1364,$$$$,Yes,10 AM - 11 PM
+Restaurant 955,Italian,Los Angeles,4.8,478,$$$,No,10 AM - 11 PM
+Restaurant 956,Thai,San Diego,1.2,1855,$$,Yes,8 AM - 10 PM
+Restaurant 957,Mexican,San Jose,1.2,788,$$$$,No,10 AM - 11 PM
+Restaurant 958,Italian,Los Angeles,1.4,1858,$$$$,No,8 AM - 10 PM
+Restaurant 959,Vietnamese,Los Angeles,2.0,1997,$$,No,11 AM - 12 AM
+Restaurant 960,American,Dallas,2.6,1291,$$,No,9 AM - 9 PM
+Restaurant 961,Chinese,Los Angeles,2.9,1125,$$$,No,9 AM - 9 PM
+Restaurant 962,Thai,Chicago,1.2,1136,$$,No,11 AM - 12 AM
+Restaurant 963,Indian,Phoenix,2.1,1366,$$$$,No,9 AM - 9 PM
+Restaurant 964,Indian,Houston,2.2,1037,$$$$,Yes,24 Hours
+Restaurant 965,Italian,Dallas,2.7,664,$$,No,9 AM - 9 PM
+Restaurant 966,Vietnamese,Chicago,3.8,1842,$$$,Yes,24 Hours
+Restaurant 967,Japanese,Houston,3.6,1189,$$,Yes,8 AM - 10 PM
+Restaurant 968,Italian,Phoenix,2.6,1738,$$$$,No,10 AM - 11 PM
+Restaurant 969,Indian,Houston,1.8,1710,$$$,No,24 Hours
+Restaurant 970,Thai,Jacksonville,4.4,149,$$$$,No,8 AM - 10 PM
+Restaurant 971,Mediterranean,San Diego,3.8,1310,$$$,No,8 AM - 10 PM
+Restaurant 972,French,Chicago,3.0,433,$$,Yes,10 AM - 11 PM
+Restaurant 973,Japanese,San Diego,3.8,113,$$$,Yes,9 AM - 9 PM
+Restaurant 974,American,Dallas,4.0,710,$$$,Yes,24 Hours
+Restaurant 975,American,Austin,1.3,957,$$,No,24 Hours
+Restaurant 976,Chinese,Chicago,2.1,1823,$,No,8 AM - 10 PM
+Restaurant 977,Mediterranean,Los Angeles,3.2,1429,$$,No,10 AM - 11 PM
+Restaurant 978,Mexican,Phoenix,3.1,1044,$$,Yes,9 AM - 9 PM
+Restaurant 979,Chinese,Chicago,1.9,127,$,No,24 Hours
+Restaurant 980,French,Los Angeles,1.6,1204,$,No,24 Hours
+Restaurant 981,Mexican,Austin,3.3,354,$$,No,9 AM - 9 PM
+Restaurant 982,Vietnamese,Houston,1.6,1562,$$$,Yes,24 Hours
+Restaurant 983,Indian,Dallas,1.1,772,$$,No,24 Hours
+Restaurant 984,French,San Diego,2.0,1253,$$,Yes,11 AM - 12 AM
+Restaurant 985,Japanese,San Jose,2.0,1884,$$$,No,10 AM - 11 PM
+Restaurant 986,Mexican,San Diego,1.3,1310,$$$$,No,10 AM - 11 PM
+Restaurant 987,Mexican,Los Angeles,2.9,1273,$,No,8 AM - 10 PM
+Restaurant 988,American,Dallas,4.6,1575,$$,Yes,8 AM - 10 PM
+Restaurant 989,Chinese,Los Angeles,1.9,887,$$$$,No,9 AM - 9 PM
+Restaurant 990,Mexican,San Diego,1.9,1744,$,No,8 AM - 10 PM
+Restaurant 991,Mediterranean,Jacksonville,2.8,153,$$$,No,24 Hours
+Restaurant 992,American,Austin,3.9,1997,$,No,24 Hours
+Restaurant 993,Mediterranean,Chicago,4.9,640,$$$$,Yes,11 AM - 12 AM
+Restaurant 994,Japanese,Houston,3.5,679,$$$$,Yes,24 Hours
+Restaurant 995,Mediterranean,Los Angeles,4.3,28,$$$,Yes,11 AM - 12 AM
+Restaurant 996,Chinese,Jacksonville,2.5,1538,$,No,8 AM - 10 PM
+Restaurant 997,Vietnamese,Chicago,1.4,1552,$$$$,Yes,9 AM - 9 PM
+Restaurant 998,American,Houston,3.1,744,$$$,Yes,11 AM - 12 AM
+Restaurant 999,Mediterranean,Dallas,1.9,214,$$$,No,9 AM - 9 PM
+Restaurant 1000,Thai,Phoenix,1.2,1126,$,Yes,8 AM - 10 PM
