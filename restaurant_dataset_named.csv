@@ -1,0 +1,1001 @@
+index,name,category,city,rating,review_count,price_range,phone
+0,Noodle Nook #0,Indian,Dallas,4.1,111,$$$,+1-507-421-5566
+1,Grill House #1,Chinese,New York,2.6,712,$$,+1-611-630-7340
+2,Pizza Palace #2,Chinese,Phoenix,3.2,386,$$$,+1-820-556-4515
+3,Noodle Nook #3,American,San Diego,3.1,567,$$,+1-225-238-2213
+4,Curry Kingdom #4,Indian,San Diego,4.3,933,$,+1-929-798-6236
+5,Sushi World #5,Chinese,Dallas,4.2,670,$$$,+1-407-971-3580
+6,Spice Symphony #6,Mexican,Dallas,4.7,377,$$,+1-224-305-3275
+7,Grill House #7,French,New York,2.7,72,$$$,+1-667-686-7044
+8,Curry Kingdom #8,Greek,Chicago,3.6,417,$,+1-167-416-7523
+9,Curry Kingdom #9,Greek,San Antonio,2.6,292,$$$$,+1-943-688-2208
+10,Spice Symphony #10,Mexican,Los Angeles,3.0,204,$$$$,+1-577-796-9476
+11,Sushi World #11,Indian,Dallas,3.8,135,$$,+1-886-232-8088
+12,Pizza Palace #12,Italian,Los Angeles,2.6,981,$$,+1-411-268-3653
+13,Sushi World #13,Japanese,Philadelphia,3.0,878,$$$,+1-966-180-5105
+14,Grill House #14,Greek,Phoenix,4.1,853,$$,+1-740-410-9740
+15,Ocean's Delight #15,Greek,Chicago,3.9,475,$$,+1-275-774-6531
+16,Noodle Nook #16,Italian,New York,3.1,103,$,+1-146-756-5336
+17,Grill House #17,Mediterranean,San Antonio,4.0,688,$,+1-609-742-9938
+18,Pasta Point #18,American,San Diego,4.5,227,$$,+1-924-926-7653
+19,Pasta Point #19,French,Los Angeles,2.5,667,$,+1-261-550-7809
+20,Curry Kingdom #20,French,Houston,4.5,664,$$$,+1-721-247-6121
+21,Sushi World #21,Mexican,San Antonio,4.2,621,$$,+1-878-479-9437
+22,Pizza Palace #22,Chinese,Philadelphia,3.4,31,$$,+1-577-225-5382
+23,Curry Kingdom #23,Japanese,Chicago,2.9,61,$,+1-151-397-7293
+24,Noodle Nook #24,Thai,Houston,4.9,815,$$,+1-933-435-6123
+25,Grill House #25,Indian,San Diego,3.3,351,$$$$,+1-610-415-9148
+26,Tasty Table #26,Chinese,San Antonio,2.7,259,$$$$,+1-346-320-6781
+27,Tasty Table #27,Italian,Phoenix,2.7,138,$$$$,+1-711-963-8710
+28,Pasta Point #28,Greek,New York,4.6,815,$,+1-541-237-5333
+29,Sushi World #29,Thai,Philadelphia,4.0,588,$,+1-510-152-4189
+30,Sushi World #30,Greek,Phoenix,4.5,220,$,+1-495-616-8378
+31,Pizza Palace #31,American,San Jose,4.3,80,$,+1-231-199-7453
+32,Sushi World #32,Mexican,Dallas,3.8,859,$$$,+1-873-247-4261
+33,Noodle Nook #33,Greek,San Antonio,4.9,793,$,+1-146-139-3245
+34,Sushi World #34,French,Dallas,3.4,577,$$$$,+1-252-720-9446
+35,Spice Symphony #35,Mexican,San Jose,3.9,222,$$$,+1-266-502-5902
+36,Noodle Nook #36,Mexican,Dallas,4.6,610,$$$$,+1-825-676-5911
+37,Curry Kingdom #37,Italian,Philadelphia,4.0,231,$$$,+1-789-212-7824
+38,Noodle Nook #38,American,New York,4.7,842,$$$$,+1-371-771-4728
+39,Tasty Table #39,Mediterranean,San Diego,3.9,900,$$,+1-636-744-7229
+40,Spice Symphony #40,Japanese,New York,4.3,248,$,+1-295-119-8225
+41,Sushi World #41,Thai,Chicago,2.6,346,$$$$,+1-807-308-7723
+42,Pizza Palace #42,Mediterranean,San Diego,3.1,802,$,+1-822-241-9498
+43,Grill House #43,Greek,Philadelphia,3.2,161,$$$$,+1-638-485-6140
+44,Spice Symphony #44,French,Dallas,2.7,817,$$$,+1-659-462-5331
+45,Noodle Nook #45,French,Houston,3.1,932,$$,+1-385-671-5890
+46,Grill House #46,American,Phoenix,2.8,620,$$,+1-806-821-9011
+47,Sushi World #47,French,Philadelphia,3.2,12,$$$,+1-394-224-9899
+48,Burger Haven #48,Thai,Philadelphia,4.1,293,$$,+1-397-143-5712
+49,Ocean's Delight #49,Mexican,San Diego,3.4,889,$$$,+1-865-590-4505
+50,Grill House #50,Greek,Phoenix,3.4,158,$$$,+1-240-211-4920
+51,Grill House #51,Italian,Dallas,3.0,143,$$,+1-753-338-1860
+52,Ocean's Delight #52,Thai,Philadelphia,3.2,563,$$$$,+1-202-797-3252
+53,Tasty Table #53,Greek,Chicago,4.8,266,$$$$,+1-768-999-8793
+54,Curry Kingdom #54,Japanese,Phoenix,4.1,827,$$$,+1-392-761-1969
+55,Ocean's Delight #55,Mediterranean,Houston,4.0,188,$,+1-279-527-3880
+56,Tasty Table #56,Thai,San Diego,2.9,122,$$,+1-866-993-5742
+57,Tasty Table #57,Italian,Phoenix,4.3,686,$,+1-443-391-8444
+58,Pizza Palace #58,Greek,San Diego,2.9,897,$$,+1-971-616-8668
+59,Pasta Point #59,Japanese,Los Angeles,3.4,36,$$$,+1-266-848-8518
+60,Pasta Point #60,Indian,New York,5.0,144,$$$,+1-909-402-4164
+61,Spice Symphony #61,Mediterranean,San Antonio,4.1,25,$$$$,+1-627-435-2421
+62,Burger Haven #62,Chinese,Chicago,3.9,376,$$,+1-588-431-5064
+63,Tasty Table #63,American,San Antonio,4.2,818,$$,+1-557-871-5374
+64,Sushi World #64,American,San Jose,4.6,817,$,+1-367-769-6890
+65,Grill House #65,Italian,Los Angeles,4.4,253,$$$$,+1-414-263-7642
+66,Pizza Palace #66,American,Los Angeles,3.1,612,$$$,+1-476-729-4618
+67,Grill House #67,Indian,San Diego,2.6,341,$$,+1-565-865-7121
+68,Burger Haven #68,Greek,San Diego,3.3,26,$$,+1-880-353-2341
+69,Pizza Palace #69,French,Dallas,3.2,188,$$$,+1-179-677-2838
+70,Tasty Table #70,Greek,Dallas,3.0,281,$$,+1-686-649-3455
+71,Spice Symphony #71,Mexican,Dallas,4.9,63,$$$$,+1-219-796-4365
+72,Noodle Nook #72,French,Los Angeles,4.7,139,$$$$,+1-928-156-8429
+73,Spice Symphony #73,Greek,San Antonio,3.3,769,$$$$,+1-677-159-8575
+74,Pasta Point #74,Italian,San Antonio,4.1,441,$$$,+1-936-103-4570
+75,Noodle Nook #75,Chinese,New York,3.5,548,$$$$,+1-452-817-2044
+76,Pizza Palace #76,Italian,Los Angeles,4.8,126,$$$$,+1-132-393-7698
+77,Spice Symphony #77,Indian,San Antonio,3.6,773,$$$,+1-491-559-7184
+78,Burger Haven #78,Chinese,Dallas,3.2,75,$$,+1-769-980-6697
+79,Ocean's Delight #79,Indian,Dallas,3.1,497,$$$$,+1-641-230-4648
+80,Tasty Table #80,Italian,Phoenix,3.9,469,$$$$,+1-789-836-9920
+81,Burger Haven #81,Greek,San Antonio,3.2,806,$$,+1-353-571-6671
+82,Spice Symphony #82,American,Houston,4.0,380,$,+1-132-928-7868
+83,Noodle Nook #83,Italian,Houston,4.7,535,$$,+1-168-203-1550
+84,Curry Kingdom #84,Mediterranean,New York,3.5,617,$$,+1-858-145-7590
+85,Curry Kingdom #85,Japanese,Dallas,3.0,121,$$,+1-872-984-1924
+86,Spice Symphony #86,Greek,Phoenix,5.0,472,$$,+1-935-849-6224
+87,Noodle Nook #87,Mediterranean,Philadelphia,3.8,525,$$,+1-409-997-3347
+88,Pizza Palace #88,Japanese,San Antonio,2.7,236,$$$,+1-381-162-3869
+89,Burger Haven #89,Greek,San Diego,2.6,978,$,+1-452-758-7244
+90,Pizza Palace #90,Mexican,San Antonio,2.8,639,$$$$,+1-252-407-7167
+91,Spice Symphony #91,Greek,San Diego,4.1,54,$$,+1-969-330-5927
+92,Spice Symphony #92,French,New York,4.5,754,$$$$,+1-526-670-9683
+93,Spice Symphony #93,Thai,Houston,3.6,812,$$$,+1-308-438-2295
+94,Curry Kingdom #94,Mexican,Los Angeles,2.7,940,$$,+1-152-374-7179
+95,Noodle Nook #95,Mediterranean,New York,3.5,897,$,+1-292-923-4555
+96,Curry Kingdom #96,Japanese,Philadelphia,5.0,684,$$$,+1-115-316-4113
+97,Ocean's Delight #97,French,Houston,3.8,543,$$,+1-506-345-6269
+98,Pasta Point #98,Thai,San Diego,4.9,318,$$$,+1-415-367-6892
+99,Pizza Palace #99,French,San Diego,4.7,479,$,+1-922-839-8692
+100,Sushi World #100,Japanese,Philadelphia,2.5,668,$$$,+1-523-146-4625
+101,Spice Symphony #101,Italian,Phoenix,4.3,997,$$$$,+1-402-256-4214
+102,Sushi World #102,Japanese,San Antonio,4.2,41,$$,+1-611-663-6530
+103,Pasta Point #103,French,San Diego,3.8,72,$$$$,+1-272-850-6770
+104,Spice Symphony #104,Indian,Dallas,3.2,500,$$$$,+1-288-655-1962
+105,Pizza Palace #105,Italian,Los Angeles,4.1,877,$,+1-882-106-7756
+106,Spice Symphony #106,Japanese,Los Angeles,2.8,421,$$,+1-109-323-9285
+107,Curry Kingdom #107,Mexican,New York,3.6,446,$$$$,+1-775-599-1257
+108,Tasty Table #108,Greek,Dallas,3.6,712,$$$$,+1-112-117-9673
+109,Pasta Point #109,Greek,Phoenix,4.9,120,$,+1-614-932-8054
+110,Spice Symphony #110,Chinese,Los Angeles,4.7,512,$$,+1-346-296-9625
+111,Pasta Point #111,Mexican,Phoenix,3.2,739,$$$$,+1-180-482-7652
+112,Curry Kingdom #112,Mediterranean,Houston,3.8,941,$$,+1-407-800-2320
+113,Tasty Table #113,Chinese,San Antonio,2.9,464,$$$$,+1-486-665-8798
+114,Tasty Table #114,Italian,Chicago,4.8,85,$,+1-611-965-8109
+115,Sushi World #115,Mediterranean,Los Angeles,4.7,930,$,+1-335-316-8790
+116,Pasta Point #116,Italian,Los Angeles,3.2,92,$$$,+1-656-677-1539
+117,Spice Symphony #117,Mexican,New York,4.1,339,$$,+1-701-247-7525
+118,Ocean's Delight #118,American,Chicago,4.0,632,$$,+1-680-954-7375
+119,Pizza Palace #119,Mexican,San Antonio,2.9,161,$$,+1-909-805-2284
+120,Pizza Palace #120,Mexican,New York,4.4,77,$,+1-547-337-2245
+121,Sushi World #121,Mediterranean,San Jose,3.8,139,$$$$,+1-892-434-1485
+122,Pasta Point #122,French,San Diego,4.4,291,$$,+1-464-666-7150
+123,Burger Haven #123,Indian,San Jose,3.8,649,$$$$,+1-187-890-5839
+124,Grill House #124,Chinese,Los Angeles,2.5,658,$$$,+1-257-489-3527
+125,Burger Haven #125,Mexican,Philadelphia,3.3,609,$,+1-193-105-6050
+126,Curry Kingdom #126,Mexican,Phoenix,2.5,571,$,+1-235-189-4070
+127,Burger Haven #127,French,Dallas,4.8,739,$$$$,+1-205-126-2468
+128,Sushi World #128,Greek,Los Angeles,4.7,342,$$$,+1-984-494-1202
+129,Pasta Point #129,Thai,San Antonio,4.6,400,$,+1-842-672-4977
+130,Noodle Nook #130,Greek,Chicago,3.3,621,$$$$,+1-273-242-5405
+131,Pasta Point #131,American,San Diego,2.6,553,$$,+1-164-271-8121
+132,Pasta Point #132,Thai,Phoenix,4.7,311,$$$$,+1-901-178-6916
+133,Pasta Point #133,Japanese,San Diego,4.9,474,$$,+1-568-209-3219
+134,Pasta Point #134,Italian,San Antonio,2.7,527,$$$,+1-961-735-7224
+135,Sushi World #135,French,Philadelphia,3.7,629,$$$$,+1-935-943-3230
+136,Pasta Point #136,Mexican,San Jose,2.7,450,$$,+1-590-421-3910
+137,Burger Haven #137,Mexican,Phoenix,4.4,111,$$$$,+1-689-900-4971
+138,Sushi World #138,Thai,Phoenix,4.4,822,$$$$,+1-473-216-4273
+139,Noodle Nook #139,Greek,Chicago,2.8,728,$,+1-844-572-4434
+140,Curry Kingdom #140,American,Los Angeles,3.7,127,$$$$,+1-789-611-3280
+141,Pasta Point #141,Japanese,Phoenix,3.9,883,$$,+1-832-533-7176
+142,Ocean's Delight #142,French,San Jose,3.2,680,$$$$,+1-696-510-9755
+143,Pizza Palace #143,Thai,Dallas,4.7,676,$,+1-909-468-9796
+144,Noodle Nook #144,Chinese,Los Angeles,3.6,908,$$,+1-773-780-6816
+145,Spice Symphony #145,Mediterranean,New York,3.0,797,$$$$,+1-870-439-8052
+146,Ocean's Delight #146,Italian,Los Angeles,3.8,574,$$$,+1-327-622-9499
+147,Pizza Palace #147,Mediterranean,San Jose,4.3,748,$$,+1-556-483-7408
+148,Curry Kingdom #148,Mediterranean,Dallas,3.0,896,$$,+1-453-125-8909
+149,Ocean's Delight #149,American,San Antonio,3.3,230,$,+1-218-951-3321
+150,Sushi World #150,American,Philadelphia,5.0,450,$$$$,+1-903-311-9537
+151,Curry Kingdom #151,Mexican,San Diego,4.1,472,$,+1-548-839-8412
+152,Sushi World #152,Chinese,Phoenix,3.6,919,$,+1-929-827-2885
+153,Tasty Table #153,Mexican,Los Angeles,3.8,243,$$,+1-858-349-9454
+154,Spice Symphony #154,Greek,Chicago,2.8,433,$$$,+1-673-536-8570
+155,Grill House #155,Thai,Chicago,3.1,357,$$,+1-755-773-8080
+156,Burger Haven #156,Italian,San Jose,3.3,857,$$,+1-560-706-8037
+157,Burger Haven #157,Italian,Houston,4.0,474,$$,+1-385-870-2025
+158,Noodle Nook #158,Chinese,Dallas,3.1,418,$$,+1-474-433-4228
+159,Curry Kingdom #159,Chinese,Phoenix,3.1,435,$$$$,+1-640-754-6134
+160,Noodle Nook #160,Thai,San Jose,2.7,757,$$$$,+1-701-216-6700
+161,Sushi World #161,French,San Jose,4.1,107,$$,+1-933-789-5873
+162,Noodle Nook #162,Mediterranean,Los Angeles,3.1,330,$$,+1-420-220-4908
+163,Pasta Point #163,Chinese,Chicago,4.8,447,$$$,+1-810-244-9369
+164,Burger Haven #164,Thai,San Jose,4.6,330,$$,+1-688-492-7931
+165,Spice Symphony #165,French,Dallas,2.7,691,$$,+1-668-270-9022
+166,Pasta Point #166,Indian,Chicago,3.1,271,$$$,+1-962-561-1878
+167,Sushi World #167,Italian,San Diego,4.2,393,$$,+1-299-934-7290
+168,Pizza Palace #168,Greek,San Diego,3.0,986,$$$$,+1-801-603-7809
+169,Curry Kingdom #169,French,Chicago,2.8,166,$,+1-678-131-4613
+170,Pasta Point #170,Italian,Phoenix,4.8,713,$$,+1-650-395-3755
+171,Curry Kingdom #171,Mediterranean,San Diego,3.9,955,$,+1-686-216-5389
+172,Pizza Palace #172,Mexican,Dallas,3.7,495,$,+1-878-836-8231
+173,Pizza Palace #173,Japanese,San Antonio,4.5,78,$,+1-853-949-5055
+174,Pasta Point #174,Italian,San Diego,4.5,103,$$$,+1-456-982-2425
+175,Curry Kingdom #175,Chinese,Houston,3.0,861,$$,+1-930-855-6744
+176,Noodle Nook #176,Thai,Chicago,2.7,97,$$,+1-903-311-4390
+177,Tasty Table #177,Mediterranean,Philadelphia,3.6,105,$$$,+1-711-651-3758
+178,Sushi World #178,American,Phoenix,3.6,452,$$$,+1-978-626-2560
+179,Spice Symphony #179,Thai,New York,3.7,108,$$$,+1-987-771-3078
+180,Spice Symphony #180,Japanese,Chicago,4.3,772,$$$,+1-948-353-7434
+181,Curry Kingdom #181,Indian,San Jose,4.2,766,$$$,+1-742-524-7146
+182,Curry Kingdom #182,Chinese,Los Angeles,5.0,391,$$$$,+1-627-867-5558
+183,Sushi World #183,French,San Diego,2.7,841,$$$,+1-695-102-2526
+184,Curry Kingdom #184,Mexican,Los Angeles,3.5,143,$$$$,+1-323-539-4470
+185,Curry Kingdom #185,American,Philadelphia,3.3,579,$$$,+1-445-660-3139
+186,Noodle Nook #186,French,Philadelphia,4.7,71,$,+1-147-201-8529
+187,Tasty Table #187,Chinese,Chicago,3.1,610,$$$$,+1-567-100-8009
+188,Grill House #188,Indian,Phoenix,3.0,989,$$,+1-995-997-5489
+189,Ocean's Delight #189,Mexican,Phoenix,3.6,585,$,+1-480-780-3711
+190,Tasty Table #190,Thai,Phoenix,3.6,585,$$,+1-539-771-2494
+191,Ocean's Delight #191,Italian,Houston,3.2,347,$$$$,+1-179-235-4705
+192,Pizza Palace #192,French,New York,3.1,696,$,+1-812-451-2975
+193,Burger Haven #193,Indian,San Diego,4.8,135,$,+1-334-492-2463
+194,Ocean's Delight #194,Chinese,Philadelphia,3.6,430,$$$,+1-406-240-7270
+195,Spice Symphony #195,Indian,Los Angeles,4.7,372,$,+1-724-765-3688
+196,Curry Kingdom #196,Mexican,Houston,3.9,904,$$,+1-521-730-8248
+197,Grill House #197,Chinese,Los Angeles,2.6,691,$$,+1-870-226-7291
+198,Sushi World #198,Thai,Philadelphia,5.0,973,$$,+1-353-383-2380
+199,Grill House #199,Greek,San Jose,4.6,778,$$$,+1-897-807-1439
+200,Pasta Point #200,Japanese,Dallas,4.9,443,$$,+1-865-501-5842
+201,Tasty Table #201,Japanese,San Diego,4.8,898,$$$$,+1-215-346-9185
+202,Noodle Nook #202,Chinese,Dallas,4.6,947,$,+1-469-424-3162
+203,Burger Haven #203,Mediterranean,San Antonio,2.9,748,$$$,+1-659-799-3830
+204,Curry Kingdom #204,Chinese,New York,3.7,62,$,+1-114-368-4534
+205,Tasty Table #205,Italian,San Antonio,3.0,304,$$$,+1-743-829-9209
+206,Burger Haven #206,Thai,San Antonio,3.5,624,$,+1-755-649-9808
+207,Noodle Nook #207,Indian,Phoenix,2.6,329,$,+1-417-180-9377
+208,Grill House #208,Indian,Dallas,3.4,370,$$$,+1-500-700-2083
+209,Pasta Point #209,Thai,Houston,5.0,116,$,+1-350-188-8118
+210,Ocean's Delight #210,French,San Jose,3.2,601,$,+1-416-782-3877
+211,Ocean's Delight #211,Italian,Chicago,4.5,529,$,+1-267-608-6680
+212,Pizza Palace #212,Greek,Phoenix,3.6,227,$$,+1-480-229-5403
+213,Ocean's Delight #213,Italian,Philadelphia,3.6,168,$$$$,+1-378-636-2046
+214,Pasta Point #214,Mediterranean,Los Angeles,4.9,682,$$$$,+1-566-623-6900
+215,Tasty Table #215,French,San Jose,5.0,503,$$,+1-476-261-5179
+216,Ocean's Delight #216,Mediterranean,Los Angeles,3.9,239,$$,+1-858-621-1042
+217,Tasty Table #217,Italian,Houston,4.3,877,$,+1-583-472-7274
+218,Spice Symphony #218,Indian,New York,2.9,120,$$$$,+1-329-429-5067
+219,Burger Haven #219,Mexican,Phoenix,3.2,368,$,+1-685-481-2956
+220,Pizza Palace #220,Italian,Chicago,4.9,875,$$,+1-923-628-1752
+221,Burger Haven #221,Chinese,San Diego,3.9,579,$$$,+1-892-965-6090
+222,Sushi World #222,Chinese,Dallas,3.9,386,$$$$,+1-108-477-4287
+223,Pasta Point #223,Mediterranean,Phoenix,4.4,127,$$,+1-575-477-9083
+224,Grill House #224,Greek,Houston,2.6,790,$$,+1-106-519-1391
+225,Grill House #225,Greek,Philadelphia,4.0,295,$,+1-443-101-7164
+226,Pasta Point #226,Chinese,Houston,3.8,597,$$,+1-529-603-1981
+227,Spice Symphony #227,American,Los Angeles,4.6,241,$,+1-337-965-9515
+228,Burger Haven #228,Mexican,San Diego,2.9,836,$,+1-694-197-9280
+229,Spice Symphony #229,Thai,Los Angeles,4.9,449,$,+1-545-778-3141
+230,Grill House #230,American,Phoenix,2.7,875,$$$,+1-920-502-6345
+231,Sushi World #231,French,Phoenix,3.0,584,$$,+1-176-307-3230
+232,Noodle Nook #232,Chinese,Chicago,4.0,795,$,+1-268-560-8635
+233,Sushi World #233,Thai,Los Angeles,4.2,848,$$$,+1-888-312-8404
+234,Pasta Point #234,French,Phoenix,3.1,646,$,+1-192-261-5984
+235,Noodle Nook #235,Italian,Houston,2.8,638,$$$,+1-251-193-5066
+236,Sushi World #236,Thai,Dallas,4.7,701,$,+1-793-406-5262
+237,Spice Symphony #237,Italian,San Antonio,3.1,668,$$$$,+1-669-866-5093
+238,Ocean's Delight #238,French,Los Angeles,4.0,580,$$,+1-224-112-2010
+239,Grill House #239,Indian,Houston,4.0,36,$$$$,+1-481-802-2376
+240,Noodle Nook #240,Mediterranean,Phoenix,3.5,633,$,+1-122-166-4239
+241,Curry Kingdom #241,Indian,Los Angeles,4.0,961,$$$,+1-225-143-8552
+242,Tasty Table #242,Indian,San Jose,3.8,683,$$$$,+1-941-841-7471
+243,Curry Kingdom #243,Italian,San Antonio,4.8,859,$$$$,+1-276-462-4517
+244,Spice Symphony #244,American,Phoenix,3.0,720,$$$$,+1-252-135-5026
+245,Pasta Point #245,French,San Antonio,4.3,283,$$$$,+1-162-189-5583
+246,Burger Haven #246,Indian,San Antonio,3.1,39,$$,+1-758-916-9614
+247,Grill House #247,Greek,New York,3.5,194,$$$$,+1-900-830-6883
+248,Curry Kingdom #248,Greek,San Diego,4.2,289,$$$,+1-679-614-6269
+249,Burger Haven #249,American,Chicago,3.2,729,$,+1-426-711-4588
+250,Tasty Table #250,American,New York,3.3,790,$$$$,+1-642-466-4813
+251,Spice Symphony #251,Chinese,Houston,4.4,326,$$,+1-372-646-1916
+252,Grill House #252,Mediterranean,San Antonio,2.7,953,$$$,+1-959-965-3846
+253,Spice Symphony #253,Japanese,San Jose,3.6,357,$$$,+1-925-855-6878
+254,Noodle Nook #254,Italian,Philadelphia,5.0,369,$$,+1-676-292-9064
+255,Pizza Palace #255,American,Chicago,5.0,16,$$$$,+1-138-192-1920
+256,Grill House #256,Mediterranean,Houston,2.7,195,$,+1-639-589-1011
+257,Sushi World #257,Mediterranean,Houston,3.0,900,$$,+1-448-834-3907
+258,Sushi World #258,Italian,New York,3.2,156,$$,+1-700-821-3320
+259,Ocean's Delight #259,Greek,Philadelphia,4.8,589,$,+1-482-821-7481
+260,Noodle Nook #260,Chinese,Philadelphia,4.7,683,$$$,+1-430-239-3580
+261,Burger Haven #261,French,Philadelphia,4.7,420,$$,+1-824-675-6846
+262,Grill House #262,Mediterranean,Chicago,3.4,81,$$$$,+1-414-851-5825
+263,Spice Symphony #263,Indian,New York,2.9,155,$$$$,+1-971-889-1530
+264,Spice Symphony #264,Mediterranean,Philadelphia,4.6,768,$$,+1-754-679-2705
+265,Curry Kingdom #265,Indian,Philadelphia,4.3,658,$,+1-343-455-6234
+266,Spice Symphony #266,Chinese,Philadelphia,4.0,41,$$$$,+1-111-371-4435
+267,Grill House #267,Chinese,Philadelphia,5.0,103,$$$,+1-905-210-1020
+268,Tasty Table #268,Thai,San Diego,4.1,774,$$$$,+1-270-523-9078
+269,Burger Haven #269,Mexican,Dallas,2.5,553,$$$$,+1-203-948-8855
+270,Noodle Nook #270,Japanese,Chicago,4.5,230,$$$$,+1-175-918-1547
+271,Pasta Point #271,Italian,Philadelphia,3.2,395,$$$,+1-207-175-6600
+272,Spice Symphony #272,Thai,Chicago,4.2,439,$,+1-660-195-6536
+273,Noodle Nook #273,Mediterranean,San Diego,4.8,474,$,+1-541-769-3703
+274,Noodle Nook #274,Thai,Chicago,2.8,359,$,+1-203-439-4367
+275,Grill House #275,Thai,Dallas,2.8,171,$$$,+1-776-388-5872
+276,Grill House #276,Chinese,New York,2.8,388,$$$$,+1-685-662-9043
+277,Spice Symphony #277,Italian,Philadelphia,3.9,329,$,+1-537-189-5825
+278,Noodle Nook #278,French,Houston,3.2,748,$,+1-126-311-3798
+279,Pasta Point #279,Chinese,San Diego,4.0,342,$,+1-415-903-7512
+280,Curry Kingdom #280,French,Phoenix,4.3,805,$,+1-757-657-7349
+281,Spice Symphony #281,Mexican,San Antonio,3.0,974,$$$,+1-291-556-1731
+282,Pasta Point #282,French,San Diego,4.1,591,$$$,+1-331-957-5400
+283,Noodle Nook #283,Italian,Chicago,3.2,620,$,+1-187-784-6632
+284,Pizza Palace #284,Thai,San Jose,3.7,96,$$,+1-666-162-7342
+285,Pizza Palace #285,Thai,Dallas,4.8,914,$$$$,+1-686-341-8803
+286,Pasta Point #286,Chinese,San Antonio,4.6,63,$,+1-614-684-9467
+287,Noodle Nook #287,Mediterranean,Chicago,2.7,169,$,+1-875-559-3832
+288,Spice Symphony #288,Japanese,Houston,3.6,171,$$,+1-143-533-2283
+289,Burger Haven #289,Japanese,Chicago,3.2,782,$$$,+1-427-844-2097
+290,Ocean's Delight #290,Thai,Dallas,2.5,642,$$$$,+1-665-433-5525
+291,Pizza Palace #291,French,New York,4.4,60,$$$$,+1-215-524-3451
+292,Spice Symphony #292,Mediterranean,San Jose,4.1,700,$,+1-208-676-2654
+293,Pasta Point #293,Greek,Philadelphia,3.2,93,$$$$,+1-370-492-8955
+294,Noodle Nook #294,Mediterranean,San Diego,4.4,288,$,+1-276-382-7602
+295,Spice Symphony #295,Mediterranean,San Jose,3.9,463,$$$$,+1-139-505-6431
+296,Grill House #296,Italian,San Diego,3.6,687,$$$,+1-481-120-6535
+297,Pasta Point #297,American,Phoenix,2.5,444,$$$$,+1-978-812-2609
+298,Grill House #298,Indian,Phoenix,2.7,507,$$$$,+1-892-945-6257
+299,Pasta Point #299,Thai,San Jose,4.7,631,$,+1-292-552-4463
+300,Burger Haven #300,French,Dallas,4.8,462,$$$,+1-940-157-9442
+301,Spice Symphony #301,Chinese,Phoenix,3.9,434,$$$$,+1-238-899-9589
+302,Noodle Nook #302,Italian,Chicago,4.6,289,$$,+1-996-952-4288
+303,Tasty Table #303,Japanese,New York,4.0,230,$$$$,+1-151-469-4262
+304,Pasta Point #304,Mexican,San Diego,2.9,783,$$$$,+1-750-226-1500
+305,Grill House #305,Mexican,San Diego,2.8,534,$$$$,+1-281-991-8775
+306,Noodle Nook #306,Greek,Philadelphia,3.3,126,$$$,+1-267-957-5237
+307,Ocean's Delight #307,American,New York,4.7,363,$$$$,+1-150-266-4511
+308,Grill House #308,Japanese,Houston,4.5,450,$$$,+1-767-519-9409
+309,Tasty Table #309,Italian,San Diego,4.7,123,$$,+1-762-277-1138
+310,Grill House #310,American,San Jose,4.7,300,$$$,+1-829-826-5511
+311,Burger Haven #311,Thai,Philadelphia,3.0,704,$$$$,+1-358-323-8646
+312,Pasta Point #312,Greek,San Jose,3.1,704,$$$$,+1-698-204-1120
+313,Pizza Palace #313,Mexican,Dallas,2.8,617,$$$,+1-405-800-2771
+314,Curry Kingdom #314,Chinese,Philadelphia,4.5,508,$$$,+1-755-432-5536
+315,Pasta Point #315,American,Houston,4.7,549,$$,+1-629-883-4937
+316,Tasty Table #316,Mediterranean,San Antonio,3.5,693,$$$,+1-797-243-1417
+317,Curry Kingdom #317,American,Phoenix,4.1,325,$$$$,+1-514-497-1578
+318,Noodle Nook #318,Mediterranean,Houston,2.9,56,$$$,+1-843-830-4643
+319,Pizza Palace #319,French,Philadelphia,4.8,235,$$$,+1-965-274-3967
+320,Pasta Point #320,Chinese,San Diego,4.7,414,$$,+1-858-364-3999
+321,Sushi World #321,Chinese,Houston,4.9,623,$$$,+1-328-862-6031
+322,Burger Haven #322,Mexican,Philadelphia,4.5,66,$$$,+1-699-401-8598
+323,Ocean's Delight #323,French,New York,4.7,17,$,+1-583-299-9199
+324,Ocean's Delight #324,Thai,Dallas,2.6,219,$$$,+1-523-155-3470
+325,Spice Symphony #325,Japanese,Philadelphia,4.3,318,$$$$,+1-683-568-3346
+326,Sushi World #326,Indian,Los Angeles,3.3,978,$$$$,+1-440-746-3897
+327,Sushi World #327,Italian,New York,4.8,226,$$$$,+1-380-314-3762
+328,Noodle Nook #328,Indian,San Diego,4.5,795,$,+1-232-729-8105
+329,Burger Haven #329,Thai,San Antonio,4.7,150,$$$$,+1-492-104-1618
+330,Pizza Palace #330,Japanese,Philadelphia,4.5,792,$,+1-429-875-9700
+331,Grill House #331,Italian,New York,3.2,271,$$,+1-331-810-6641
+332,Pasta Point #332,Indian,Los Angeles,4.5,306,$$$$,+1-615-702-6015
+333,Spice Symphony #333,Chinese,New York,2.8,345,$$$,+1-397-566-9524
+334,Noodle Nook #334,Greek,Philadelphia,4.7,132,$$$$,+1-803-237-6615
+335,Curry Kingdom #335,Mexican,Houston,4.6,17,$$,+1-931-513-1313
+336,Grill House #336,Japanese,Chicago,3.1,519,$$,+1-851-122-9267
+337,Spice Symphony #337,Chinese,Philadelphia,4.5,774,$,+1-484-997-5190
+338,Pizza Palace #338,Mediterranean,New York,3.7,450,$,+1-777-210-1323
+339,Tasty Table #339,Chinese,San Antonio,3.3,189,$$$$,+1-489-226-9966
+340,Pasta Point #340,French,Chicago,4.5,142,$$,+1-811-802-1152
+341,Pasta Point #341,Thai,Los Angeles,3.1,399,$$$,+1-737-720-3247
+342,Burger Haven #342,Chinese,Dallas,2.6,555,$,+1-389-216-2741
+343,Curry Kingdom #343,Japanese,San Jose,3.0,730,$$,+1-896-369-9571
+344,Grill House #344,Mexican,San Antonio,3.3,245,$$$,+1-264-140-9980
+345,Curry Kingdom #345,Japanese,San Diego,4.7,522,$$$,+1-340-102-1208
+346,Ocean's Delight #346,Chinese,San Jose,4.9,582,$$$$,+1-252-192-9383
+347,Ocean's Delight #347,Chinese,Phoenix,3.2,863,$$,+1-567-403-5327
+348,Curry Kingdom #348,Italian,Los Angeles,4.1,694,$$,+1-995-140-5760
+349,Sushi World #349,Mexican,San Antonio,3.5,835,$,+1-197-971-1751
+350,Tasty Table #350,Indian,Chicago,5.0,372,$$$,+1-466-548-5395
+351,Ocean's Delight #351,Mexican,Philadelphia,3.8,83,$$,+1-216-510-7557
+352,Curry Kingdom #352,American,San Antonio,4.8,416,$$$$,+1-919-531-3732
+353,Ocean's Delight #353,Indian,New York,2.8,892,$$,+1-206-526-8908
+354,Noodle Nook #354,French,Chicago,4.9,769,$$$$,+1-897-467-1472
+355,Spice Symphony #355,French,San Diego,2.9,53,$,+1-521-551-1753
+356,Ocean's Delight #356,American,Philadelphia,4.9,456,$,+1-821-989-9598
+357,Noodle Nook #357,Mediterranean,Houston,3.2,29,$$$,+1-631-635-2560
+358,Burger Haven #358,Japanese,San Diego,2.8,480,$$$,+1-779-792-7305
+359,Spice Symphony #359,Greek,San Jose,3.6,953,$,+1-111-758-3571
+360,Pizza Palace #360,French,San Diego,4.3,89,$$,+1-176-869-9055
+361,Sushi World #361,Japanese,Philadelphia,3.3,892,$$$,+1-151-619-4648
+362,Pizza Palace #362,Thai,San Antonio,4.0,330,$$,+1-180-570-8277
+363,Noodle Nook #363,French,Los Angeles,3.8,599,$$$$,+1-557-423-2944
+364,Curry Kingdom #364,Italian,Los Angeles,3.5,449,$$$$,+1-522-136-9996
+365,Tasty Table #365,Chinese,San Jose,3.9,597,$$$,+1-620-675-4389
+366,Curry Kingdom #366,Mexican,Philadelphia,3.1,424,$,+1-936-328-8445
+367,Sushi World #367,Greek,San Jose,4.3,736,$$$$,+1-833-772-6952
+368,Curry Kingdom #368,Chinese,Los Angeles,2.5,665,$$,+1-102-449-6818
+369,Pasta Point #369,Greek,Dallas,4.8,437,$$$,+1-818-208-1750
+370,Spice Symphony #370,French,Chicago,3.8,306,$$$$,+1-209-360-4209
+371,Grill House #371,Chinese,San Antonio,4.3,127,$$,+1-568-944-4122
+372,Sushi World #372,Chinese,San Antonio,4.4,424,$,+1-748-957-3018
+373,Curry Kingdom #373,French,San Jose,4.2,31,$$,+1-610-104-9689
+374,Tasty Table #374,Greek,San Antonio,3.4,999,$$$$,+1-620-899-3903
+375,Noodle Nook #375,Indian,Chicago,2.7,342,$,+1-496-773-6273
+376,Pizza Palace #376,Thai,San Antonio,4.2,185,$$,+1-380-507-6617
+377,Pasta Point #377,French,Chicago,3.3,830,$$,+1-522-716-9393
+378,Pasta Point #378,Greek,Philadelphia,3.3,980,$$,+1-305-314-5760
+379,Sushi World #379,Indian,Chicago,4.6,642,$$$,+1-827-218-6771
+380,Pizza Palace #380,French,San Jose,4.3,481,$$$$,+1-790-865-9747
+381,Pasta Point #381,Thai,New York,3.3,861,$,+1-125-490-3381
+382,Tasty Table #382,Italian,Houston,3.3,716,$$$,+1-868-904-3636
+383,Pasta Point #383,American,Chicago,3.5,951,$,+1-807-903-5835
+384,Grill House #384,Greek,New York,3.5,380,$$$,+1-933-563-2679
+385,Noodle Nook #385,Greek,Houston,3.2,100,$$$$,+1-343-623-5712
+386,Tasty Table #386,Thai,San Antonio,2.8,457,$$$$,+1-907-801-6122
+387,Pizza Palace #387,Italian,New York,3.6,874,$$$,+1-307-735-8259
+388,Grill House #388,Mexican,San Jose,4.9,118,$$,+1-894-842-4170
+389,Pasta Point #389,French,Chicago,4.2,259,$,+1-291-277-9418
+390,Ocean's Delight #390,Thai,New York,4.8,456,$$$$,+1-385-669-5329
+391,Spice Symphony #391,Indian,San Jose,4.0,613,$$$,+1-105-438-8640
+392,Spice Symphony #392,Italian,Chicago,3.3,420,$$$,+1-711-152-5934
+393,Curry Kingdom #393,Mediterranean,Dallas,3.9,546,$$$,+1-174-902-6207
+394,Pizza Palace #394,Japanese,Chicago,2.5,90,$,+1-905-617-3611
+395,Burger Haven #395,Greek,Dallas,3.2,415,$$$$,+1-194-457-4624
+396,Grill House #396,Mexican,Philadelphia,3.6,901,$$$,+1-400-323-9691
+397,Curry Kingdom #397,Greek,New York,3.9,327,$,+1-784-454-8301
+398,Grill House #398,Mediterranean,San Jose,4.1,773,$$,+1-140-798-6258
+399,Burger Haven #399,Chinese,San Antonio,3.7,357,$$$,+1-653-841-5633
+400,Tasty Table #400,Greek,Philadelphia,3.6,236,$$$$,+1-598-144-5856
+401,Grill House #401,Mexican,Dallas,3.0,351,$,+1-198-271-9814
+402,Pizza Palace #402,Italian,Los Angeles,3.7,807,$$,+1-786-744-4492
+403,Burger Haven #403,Chinese,Houston,4.8,182,$$$$,+1-762-936-2181
+404,Spice Symphony #404,Italian,San Diego,4.5,88,$$$,+1-138-189-2200
+405,Tasty Table #405,Indian,Phoenix,2.9,532,$,+1-688-941-4729
+406,Pasta Point #406,Thai,San Antonio,2.7,658,$$$$,+1-745-514-8094
+407,Sushi World #407,Italian,San Antonio,3.8,126,$,+1-647-106-2036
+408,Noodle Nook #408,Italian,Los Angeles,4.1,553,$$$,+1-614-208-5748
+409,Pasta Point #409,Mediterranean,Los Angeles,3.3,532,$$$,+1-883-548-7249
+410,Burger Haven #410,Italian,San Diego,4.5,208,$$,+1-646-325-3234
+411,Burger Haven #411,Greek,Phoenix,4.4,937,$$,+1-405-793-7113
+412,Tasty Table #412,Greek,Dallas,4.2,804,$$,+1-226-142-1082
+413,Noodle Nook #413,Mediterranean,San Antonio,3.1,367,$,+1-412-315-6633
+414,Grill House #414,Thai,Dallas,3.0,369,$$,+1-264-288-4617
+415,Noodle Nook #415,American,Houston,2.6,754,$,+1-285-787-1891
+416,Pizza Palace #416,French,Dallas,3.1,991,$,+1-397-787-2103
+417,Pasta Point #417,Chinese,Houston,3.7,848,$$$$,+1-438-465-3100
+418,Grill House #418,Chinese,Phoenix,4.6,670,$,+1-298-425-8960
+419,Curry Kingdom #419,Mexican,San Jose,2.7,844,$$$,+1-810-698-3496
+420,Noodle Nook #420,Mediterranean,Philadelphia,3.5,161,$$$,+1-538-272-1079
+421,Sushi World #421,Japanese,Houston,4.1,251,$$$$,+1-383-960-6889
+422,Spice Symphony #422,Mexican,San Diego,3.0,115,$$$$,+1-556-467-6004
+423,Curry Kingdom #423,Greek,Los Angeles,4.2,159,$$,+1-761-721-2343
+424,Pasta Point #424,Indian,Dallas,3.7,272,$$,+1-369-851-2252
+425,Ocean's Delight #425,Italian,Dallas,3.1,212,$,+1-932-695-7637
+426,Noodle Nook #426,Japanese,New York,4.1,187,$$$,+1-656-652-8734
+427,Spice Symphony #427,Mexican,San Antonio,2.5,626,$$,+1-890-703-5767
+428,Spice Symphony #428,French,Dallas,4.4,166,$,+1-506-472-9227
+429,Tasty Table #429,Japanese,San Jose,4.4,788,$$,+1-875-626-3299
+430,Curry Kingdom #430,Indian,Chicago,2.8,787,$$,+1-853-849-8921
+431,Sushi World #431,Italian,Houston,3.6,681,$$$$,+1-337-164-5331
+432,Sushi World #432,Japanese,New York,2.9,87,$$,+1-630-910-6918
+433,Burger Haven #433,French,San Diego,4.9,191,$,+1-140-764-6309
+434,Ocean's Delight #434,Greek,Phoenix,3.8,984,$$$,+1-692-657-3848
+435,Burger Haven #435,Thai,Philadelphia,2.6,801,$,+1-629-357-7165
+436,Grill House #436,Greek,San Antonio,3.1,653,$$$,+1-936-988-6653
+437,Curry Kingdom #437,French,San Jose,4.6,515,$,+1-613-242-8207
+438,Spice Symphony #438,Japanese,Los Angeles,3.6,485,$$$,+1-316-253-4062
+439,Spice Symphony #439,Mexican,San Jose,4.5,782,$,+1-776-335-7793
+440,Sushi World #440,Chinese,San Diego,4.2,587,$$$$,+1-590-315-3641
+441,Burger Haven #441,Italian,Houston,5.0,788,$,+1-230-687-3639
+442,Spice Symphony #442,Greek,New York,4.0,603,$$,+1-157-270-5231
+443,Spice Symphony #443,Greek,San Antonio,4.9,469,$,+1-999-836-5644
+444,Ocean's Delight #444,Japanese,San Diego,4.7,707,$$$$,+1-988-593-3794
+445,Grill House #445,Thai,San Jose,4.0,956,$$,+1-913-696-3979
+446,Noodle Nook #446,Greek,Phoenix,4.3,913,$$,+1-841-802-6614
+447,Curry Kingdom #447,Mediterranean,San Jose,3.8,588,$,+1-335-487-7315
+448,Spice Symphony #448,Chinese,New York,4.6,668,$$,+1-635-980-9263
+449,Burger Haven #449,Indian,San Jose,3.9,660,$,+1-281-587-1639
+450,Pizza Palace #450,Greek,Los Angeles,4.7,649,$,+1-593-775-3135
+451,Noodle Nook #451,Greek,New York,4.4,340,$$$$,+1-634-530-7068
+452,Tasty Table #452,Greek,San Antonio,3.7,894,$$,+1-921-593-7246
+453,Sushi World #453,Mediterranean,San Jose,3.1,652,$,+1-535-237-5170
+454,Curry Kingdom #454,Japanese,Los Angeles,3.1,333,$$$,+1-712-997-9908
+455,Burger Haven #455,American,Houston,4.1,164,$,+1-826-861-1116
+456,Noodle Nook #456,Greek,Los Angeles,4.4,460,$,+1-484-770-4365
+457,Sushi World #457,Thai,Philadelphia,3.8,79,$,+1-258-536-5155
+458,Pasta Point #458,Greek,San Antonio,4.1,490,$$$,+1-726-382-7511
+459,Grill House #459,Thai,Dallas,3.2,462,$$$$,+1-283-479-8925
+460,Pasta Point #460,American,San Jose,2.7,656,$$$,+1-892-822-7522
+461,Spice Symphony #461,Chinese,Houston,3.2,320,$$$$,+1-901-816-3650
+462,Ocean's Delight #462,Japanese,Dallas,3.2,825,$$$$,+1-904-446-1852
+463,Spice Symphony #463,Thai,New York,3.3,291,$,+1-943-248-8727
+464,Noodle Nook #464,Thai,Los Angeles,3.9,615,$,+1-369-327-7075
+465,Ocean's Delight #465,Mediterranean,New York,2.8,67,$$$$,+1-510-728-9536
+466,Pasta Point #466,Mediterranean,New York,3.1,370,$$,+1-755-606-8192
+467,Tasty Table #467,Japanese,Dallas,4.2,529,$$$,+1-299-134-9364
+468,Pizza Palace #468,Japanese,San Jose,4.3,85,$$,+1-790-136-6893
+469,Grill House #469,Italian,Chicago,2.7,327,$,+1-382-898-7544
+470,Sushi World #470,Thai,San Antonio,3.5,482,$$,+1-630-115-2124
+471,Ocean's Delight #471,Greek,Phoenix,3.9,472,$$$,+1-455-935-5530
+472,Grill House #472,Mediterranean,Houston,3.5,48,$$$$,+1-513-688-1076
+473,Pasta Point #473,Indian,San Antonio,3.0,68,$,+1-672-174-9243
+474,Pasta Point #474,Mexican,Los Angeles,3.6,387,$$$,+1-997-650-5098
+475,Curry Kingdom #475,Thai,San Jose,4.8,861,$$$$,+1-888-349-6565
+476,Curry Kingdom #476,French,San Jose,4.0,303,$,+1-593-219-5224
+477,Ocean's Delight #477,Thai,Houston,4.2,88,$$,+1-919-423-7757
+478,Sushi World #478,Greek,Dallas,4.6,670,$,+1-817-952-5314
+479,Grill House #479,American,Los Angeles,4.4,894,$$$$,+1-789-866-6603
+480,Ocean's Delight #480,Greek,Chicago,3.5,885,$$$$,+1-421-462-4580
+481,Noodle Nook #481,American,Chicago,2.5,102,$$,+1-610-854-4271
+482,Grill House #482,Japanese,Phoenix,3.4,639,$$,+1-334-307-5091
+483,Noodle Nook #483,Mexican,Chicago,4.4,618,$,+1-222-180-9071
+484,Noodle Nook #484,Italian,Dallas,4.6,529,$,+1-968-593-7081
+485,Noodle Nook #485,Mexican,San Diego,4.9,403,$$$,+1-602-287-9374
+486,Pasta Point #486,Thai,Houston,3.5,483,$$,+1-155-638-7933
+487,Curry Kingdom #487,Greek,New York,4.4,604,$$$,+1-503-981-3863
+488,Curry Kingdom #488,Chinese,Dallas,3.9,577,$$$$,+1-423-805-1137
+489,Tasty Table #489,Japanese,San Antonio,4.0,987,$,+1-433-470-5254
+490,Spice Symphony #490,Greek,Phoenix,3.1,820,$$,+1-375-582-6621
+491,Sushi World #491,Indian,San Diego,3.0,766,$$$$,+1-315-529-7099
+492,Sushi World #492,Thai,Phoenix,3.6,927,$$$$,+1-284-685-3148
+493,Noodle Nook #493,Japanese,Los Angeles,2.6,52,$$$,+1-923-341-8081
+494,Burger Haven #494,Japanese,Chicago,3.3,470,$$,+1-584-925-1159
+495,Spice Symphony #495,Thai,San Diego,4.2,940,$$,+1-969-745-9470
+496,Pizza Palace #496,Mexican,San Diego,3.5,839,$$$,+1-356-675-1781
+497,Burger Haven #497,Chinese,Chicago,2.9,595,$,+1-320-933-5166
+498,Curry Kingdom #498,Chinese,San Diego,3.7,677,$$$,+1-366-469-6903
+499,Pizza Palace #499,Greek,Phoenix,2.8,202,$$$,+1-120-521-2986
+500,Sushi World #500,Mediterranean,Houston,4.1,339,$$,+1-899-391-6818
+501,Sushi World #501,Greek,San Diego,2.6,629,$$$$,+1-180-490-5694
+502,Curry Kingdom #502,Indian,Chicago,3.5,497,$$$,+1-531-746-7631
+503,Ocean's Delight #503,Chinese,Chicago,3.9,523,$$$,+1-333-421-6191
+504,Pasta Point #504,American,San Jose,2.6,164,$$$$,+1-377-555-6950
+505,Noodle Nook #505,Greek,San Diego,4.1,990,$$$$,+1-271-288-1378
+506,Spice Symphony #506,Japanese,Phoenix,2.8,73,$,+1-315-270-7505
+507,Ocean's Delight #507,Chinese,Los Angeles,3.7,471,$$$$,+1-661-155-1431
+508,Burger Haven #508,Greek,Los Angeles,2.6,115,$,+1-368-732-3544
+509,Ocean's Delight #509,Thai,Phoenix,3.4,840,$$,+1-353-855-5655
+510,Curry Kingdom #510,Indian,Chicago,3.0,930,$$,+1-129-135-6846
+511,Sushi World #511,French,San Diego,3.3,867,$$$,+1-661-555-3213
+512,Pizza Palace #512,Indian,San Jose,4.4,361,$$$$,+1-746-866-8126
+513,Pizza Palace #513,Greek,Phoenix,3.4,741,$$$,+1-593-652-4721
+514,Ocean's Delight #514,French,Phoenix,4.4,96,$$$,+1-522-366-3551
+515,Pasta Point #515,Italian,New York,4.6,526,$$,+1-452-393-8687
+516,Pizza Palace #516,Italian,San Diego,3.1,671,$$$$,+1-406-109-8052
+517,Pasta Point #517,Mediterranean,Houston,2.7,186,$,+1-661-482-4089
+518,Burger Haven #518,Greek,San Antonio,2.5,50,$$$$,+1-355-267-7385
+519,Burger Haven #519,Japanese,Phoenix,3.8,263,$,+1-532-740-4924
+520,Pizza Palace #520,Mediterranean,Phoenix,5.0,734,$$$,+1-764-860-9715
+521,Pasta Point #521,Thai,Houston,3.4,458,$,+1-286-239-5744
+522,Ocean's Delight #522,French,San Jose,4.1,459,$$$$,+1-378-817-9060
+523,Grill House #523,Mexican,New York,4.5,546,$$,+1-150-647-1362
+524,Spice Symphony #524,Chinese,Phoenix,4.1,545,$$$,+1-228-832-8183
+525,Tasty Table #525,Japanese,Los Angeles,4.4,634,$$,+1-115-605-4558
+526,Sushi World #526,Thai,Phoenix,4.9,172,$$$$,+1-480-574-1519
+527,Sushi World #527,Chinese,Chicago,3.0,382,$,+1-372-894-7429
+528,Ocean's Delight #528,Greek,San Diego,2.6,391,$$,+1-296-961-5097
+529,Burger Haven #529,Italian,Los Angeles,2.9,949,$$,+1-494-889-8257
+530,Grill House #530,Italian,Houston,2.8,299,$$$$,+1-852-889-2539
+531,Pizza Palace #531,Japanese,San Diego,4.2,406,$$$$,+1-797-419-6293
+532,Spice Symphony #532,Italian,Dallas,3.9,428,$,+1-359-592-5895
+533,Grill House #533,Mexican,New York,3.0,803,$$,+1-215-341-8113
+534,Sushi World #534,Italian,Chicago,4.2,356,$$$,+1-698-222-7484
+535,Grill House #535,Italian,New York,4.4,705,$$$$,+1-804-710-3539
+536,Sushi World #536,Chinese,Houston,2.9,622,$$,+1-611-193-6544
+537,Tasty Table #537,Italian,Philadelphia,4.0,63,$$,+1-818-649-2759
+538,Spice Symphony #538,French,Houston,4.4,818,$$$,+1-671-907-6690
+539,Curry Kingdom #539,Japanese,New York,2.8,656,$$$$,+1-466-841-3207
+540,Pasta Point #540,Italian,San Diego,4.5,672,$$$$,+1-672-401-9892
+541,Curry Kingdom #541,Japanese,San Jose,4.9,352,$$,+1-656-456-6303
+542,Curry Kingdom #542,American,San Jose,2.8,77,$$,+1-170-643-3539
+543,Curry Kingdom #543,American,Phoenix,2.6,347,$$$,+1-564-100-9289
+544,Burger Haven #544,Indian,New York,3.3,106,$$$,+1-894-735-4912
+545,Sushi World #545,Chinese,Dallas,4.2,581,$$$$,+1-294-636-9151
+546,Pizza Palace #546,Indian,San Jose,4.9,704,$$$,+1-430-519-6276
+547,Ocean's Delight #547,Chinese,Dallas,3.5,405,$,+1-144-955-3126
+548,Spice Symphony #548,Italian,Houston,4.3,300,$,+1-597-296-2617
+549,Tasty Table #549,Mediterranean,San Antonio,2.7,268,$$$$,+1-638-738-5193
+550,Tasty Table #550,Mexican,Houston,4.2,751,$,+1-113-313-9051
+551,Ocean's Delight #551,French,New York,4.1,882,$$$,+1-671-861-7814
+552,Sushi World #552,Italian,San Jose,2.8,682,$$$,+1-641-141-2153
+553,Pasta Point #553,Chinese,Houston,4.4,997,$,+1-203-842-4784
+554,Pizza Palace #554,Thai,Houston,4.6,938,$$,+1-638-772-5075
+555,Noodle Nook #555,Indian,Dallas,4.0,627,$$$$,+1-864-208-6864
+556,Curry Kingdom #556,Thai,Los Angeles,2.8,904,$$,+1-911-284-7579
+557,Pizza Palace #557,Mexican,Chicago,5.0,163,$$$$,+1-460-422-6319
+558,Sushi World #558,Thai,San Antonio,4.5,351,$$$,+1-723-346-9939
+559,Grill House #559,Thai,Dallas,3.4,93,$$$,+1-468-563-8331
+560,Burger Haven #560,Italian,New York,3.6,606,$$$,+1-710-116-9480
+561,Spice Symphony #561,American,New York,3.4,689,$$$,+1-327-319-6159
+562,Tasty Table #562,American,Dallas,3.8,154,$$,+1-196-138-8542
+563,Sushi World #563,Indian,Chicago,3.4,948,$$$,+1-475-696-5093
+564,Grill House #564,American,Phoenix,4.6,368,$,+1-684-509-4562
+565,Ocean's Delight #565,Mexican,San Diego,4.6,327,$$,+1-599-945-2562
+566,Noodle Nook #566,American,New York,2.8,1000,$$$$,+1-180-898-1916
+567,Sushi World #567,Mexican,San Antonio,4.9,681,$$$$,+1-988-223-4714
+568,Noodle Nook #568,Italian,San Antonio,4.1,725,$,+1-412-636-1674
+569,Sushi World #569,Greek,San Jose,4.6,688,$$,+1-434-614-4617
+570,Spice Symphony #570,Italian,San Antonio,4.3,411,$$$$,+1-870-709-9269
+571,Ocean's Delight #571,Japanese,San Antonio,3.6,142,$$$,+1-905-503-3425
+572,Spice Symphony #572,Mexican,Los Angeles,4.3,619,$$$$,+1-685-863-1807
+573,Pizza Palace #573,Thai,Phoenix,4.9,735,$,+1-508-613-8118
+574,Spice Symphony #574,Indian,San Diego,3.2,970,$$,+1-599-504-4212
+575,Pizza Palace #575,Mediterranean,Dallas,4.5,96,$$,+1-348-173-5362
+576,Burger Haven #576,Mexican,San Jose,3.8,327,$,+1-215-787-7776
+577,Burger Haven #577,Mexican,Philadelphia,3.7,582,$$,+1-428-452-1396
+578,Pasta Point #578,Indian,Philadelphia,3.6,395,$$$$,+1-738-249-8216
+579,Tasty Table #579,Japanese,Houston,4.3,668,$$$,+1-259-875-2405
+580,Ocean's Delight #580,Italian,Houston,3.2,820,$$,+1-989-952-5713
+581,Tasty Table #581,Mexican,Los Angeles,4.6,346,$$$,+1-560-582-1372
+582,Sushi World #582,Japanese,Dallas,4.6,842,$$,+1-308-659-9573
+583,Pasta Point #583,Greek,San Diego,2.7,140,$$,+1-811-815-1301
+584,Burger Haven #584,Mediterranean,Dallas,4.7,696,$,+1-361-274-1984
+585,Pasta Point #585,Japanese,San Jose,3.1,729,$$$,+1-154-576-1136
+586,Ocean's Delight #586,Thai,Phoenix,3.7,858,$$$,+1-985-210-1312
+587,Pasta Point #587,Thai,Houston,4.0,979,$$$$,+1-620-826-2631
+588,Sushi World #588,French,San Jose,3.4,766,$,+1-290-303-9202
+589,Curry Kingdom #589,Greek,New York,2.6,711,$,+1-353-642-5995
+590,Sushi World #590,French,San Antonio,4.6,944,$$,+1-118-455-6765
+591,Sushi World #591,American,Houston,3.0,549,$$$,+1-931-163-5221
+592,Burger Haven #592,Italian,Dallas,3.0,105,$$$,+1-330-255-6599
+593,Burger Haven #593,Indian,Los Angeles,4.5,671,$$$$,+1-633-794-4726
+594,Burger Haven #594,Japanese,San Jose,3.4,696,$$,+1-536-419-6395
+595,Curry Kingdom #595,Greek,Chicago,4.7,443,$$,+1-768-241-9869
+596,Grill House #596,Indian,Phoenix,4.3,530,$$,+1-540-888-3378
+597,Noodle Nook #597,Indian,Philadelphia,3.2,380,$,+1-670-645-2939
+598,Spice Symphony #598,Mexican,Chicago,2.5,28,$,+1-883-426-7783
+599,Burger Haven #599,American,San Diego,4.9,381,$$$,+1-255-897-4079
+600,Ocean's Delight #600,Indian,Chicago,2.7,326,$,+1-880-726-5372
+601,Noodle Nook #601,Mediterranean,San Jose,4.3,194,$$,+1-710-337-4783
+602,Tasty Table #602,Mexican,Los Angeles,3.7,983,$$$$,+1-237-614-8680
+603,Sushi World #603,Indian,San Antonio,4.4,229,$$$$,+1-585-240-3683
+604,Grill House #604,Japanese,New York,4.2,359,$$$$,+1-882-115-5421
+605,Burger Haven #605,Japanese,Houston,4.1,980,$$,+1-167-281-8197
+606,Noodle Nook #606,French,Philadelphia,3.7,794,$$$$,+1-352-537-7633
+607,Tasty Table #607,Mediterranean,San Antonio,4.5,507,$$$,+1-503-726-9784
+608,Pizza Palace #608,Italian,Dallas,2.7,206,$,+1-562-567-1694
+609,Grill House #609,Greek,Dallas,3.1,241,$$$$,+1-852-140-7347
+610,Pizza Palace #610,Italian,Houston,4.2,150,$$$,+1-550-507-5989
+611,Pasta Point #611,French,Chicago,3.3,168,$$$$,+1-401-727-1893
+612,Pizza Palace #612,Indian,San Diego,4.0,89,$$$$,+1-192-839-9202
+613,Ocean's Delight #613,Indian,San Jose,3.7,312,$$,+1-502-523-6299
+614,Curry Kingdom #614,Italian,Chicago,3.8,874,$$$$,+1-704-829-4308
+615,Curry Kingdom #615,Chinese,Phoenix,3.6,817,$$$,+1-808-764-3686
+616,Ocean's Delight #616,Chinese,Los Angeles,4.4,113,$$$$,+1-749-471-2397
+617,Pizza Palace #617,Thai,Dallas,3.3,529,$$,+1-487-663-7235
+618,Tasty Table #618,Indian,Philadelphia,4.3,799,$$,+1-266-989-3369
+619,Spice Symphony #619,Italian,San Antonio,3.2,562,$$$,+1-416-847-8311
+620,Pasta Point #620,Indian,Los Angeles,3.1,865,$$,+1-307-103-5146
+621,Tasty Table #621,French,San Diego,2.8,766,$$$$,+1-656-926-1094
+622,Noodle Nook #622,French,Houston,3.0,914,$$,+1-702-775-8794
+623,Curry Kingdom #623,Thai,San Diego,2.8,549,$,+1-715-714-1107
+624,Grill House #624,Greek,Phoenix,3.8,48,$$,+1-150-289-3429
+625,Tasty Table #625,Mexican,New York,4.4,687,$$,+1-974-133-5889
+626,Sushi World #626,Chinese,New York,3.0,354,$,+1-526-282-3643
+627,Pasta Point #627,Mediterranean,San Jose,3.0,907,$$,+1-566-867-6901
+628,Tasty Table #628,Chinese,Phoenix,3.7,794,$$$,+1-477-488-2108
+629,Burger Haven #629,Greek,Los Angeles,4.3,642,$$$,+1-582-237-2999
+630,Pasta Point #630,Mexican,Dallas,4.9,144,$$$$,+1-637-314-4425
+631,Noodle Nook #631,Italian,Los Angeles,3.8,621,$,+1-595-841-5705
+632,Burger Haven #632,Mediterranean,Philadelphia,3.2,395,$$$,+1-638-688-6797
+633,Spice Symphony #633,Mediterranean,San Jose,2.8,167,$$$$,+1-632-846-9154
+634,Curry Kingdom #634,Indian,San Jose,3.0,176,$$,+1-825-397-4171
+635,Tasty Table #635,Chinese,New York,3.1,195,$$$$,+1-740-915-2932
+636,Grill House #636,Mediterranean,San Antonio,2.9,861,$$$$,+1-146-441-6728
+637,Pizza Palace #637,Japanese,New York,2.5,719,$$,+1-806-388-5168
+638,Ocean's Delight #638,American,Phoenix,3.8,799,$$$,+1-885-106-2865
+639,Sushi World #639,Mexican,San Antonio,3.2,649,$,+1-952-279-4178
+640,Sushi World #640,Mexican,San Diego,4.9,838,$$$$,+1-916-136-3224
+641,Curry Kingdom #641,Indian,San Diego,3.9,934,$$$,+1-573-902-7782
+642,Tasty Table #642,Greek,Phoenix,4.2,179,$$$,+1-668-648-1306
+643,Grill House #643,Mediterranean,Philadelphia,2.8,748,$$$,+1-167-252-5595
+644,Tasty Table #644,Mexican,San Antonio,4.7,458,$$,+1-684-720-7382
+645,Spice Symphony #645,Mediterranean,Los Angeles,3.7,54,$$$,+1-822-978-6152
+646,Tasty Table #646,American,San Antonio,4.7,430,$,+1-608-998-4893
+647,Sushi World #647,French,Phoenix,3.9,383,$$,+1-637-409-3867
+648,Ocean's Delight #648,Mexican,New York,3.7,702,$$,+1-194-554-9290
+649,Tasty Table #649,French,Dallas,3.6,746,$$,+1-294-448-8921
+650,Pizza Palace #650,American,Philadelphia,3.0,253,$$,+1-887-992-2609
+651,Pizza Palace #651,Indian,Houston,2.6,464,$,+1-570-496-9558
+652,Ocean's Delight #652,Italian,Phoenix,4.9,635,$,+1-803-968-2426
+653,Sushi World #653,French,New York,3.7,301,$,+1-633-884-6119
+654,Tasty Table #654,Mediterranean,Phoenix,4.6,780,$$,+1-428-305-4154
+655,Pasta Point #655,American,Dallas,3.5,776,$$$,+1-891-551-2927
+656,Pasta Point #656,Indian,Chicago,2.7,812,$$$,+1-217-115-9422
+657,Ocean's Delight #657,Japanese,Dallas,4.1,469,$$$,+1-662-426-5440
+658,Spice Symphony #658,American,San Jose,2.6,249,$$,+1-275-172-6101
+659,Noodle Nook #659,Mexican,Dallas,2.9,556,$$$$,+1-151-233-1475
+660,Curry Kingdom #660,Italian,Los Angeles,3.9,254,$$$$,+1-155-188-7987
+661,Burger Haven #661,Indian,San Jose,3.3,326,$$$$,+1-731-464-6119
+662,Sushi World #662,Japanese,Dallas,5.0,998,$,+1-873-882-8629
+663,Noodle Nook #663,Indian,Los Angeles,2.8,838,$$$$,+1-199-566-6085
+664,Curry Kingdom #664,French,Houston,4.4,813,$$,+1-247-981-5227
+665,Sushi World #665,Thai,Chicago,4.0,490,$$$,+1-907-981-6320
+666,Curry Kingdom #666,French,New York,4.5,935,$,+1-586-215-6758
+667,Curry Kingdom #667,French,Chicago,3.1,865,$$$,+1-886-456-3087
+668,Pizza Palace #668,Chinese,San Antonio,3.8,208,$,+1-433-669-2162
+669,Pasta Point #669,Greek,San Diego,3.6,386,$$$$,+1-704-523-4908
+670,Noodle Nook #670,Japanese,Dallas,3.6,704,$$,+1-593-493-2082
+671,Sushi World #671,Japanese,San Jose,4.7,979,$$$$,+1-903-545-6606
+672,Pizza Palace #672,Japanese,Chicago,5.0,594,$,+1-857-828-8972
+673,Ocean's Delight #673,Mediterranean,San Jose,3.3,461,$$$$,+1-433-668-2599
+674,Curry Kingdom #674,Indian,Phoenix,4.1,482,$$$$,+1-171-712-2781
+675,Noodle Nook #675,Thai,Philadelphia,4.0,797,$$$$,+1-760-776-2007
+676,Ocean's Delight #676,Japanese,Chicago,4.4,298,$,+1-875-250-3444
+677,Curry Kingdom #677,Greek,Phoenix,4.9,806,$$$$,+1-730-691-8326
+678,Grill House #678,Japanese,Philadelphia,3.0,401,$$$,+1-683-913-5989
+679,Burger Haven #679,Mexican,Los Angeles,3.0,524,$,+1-726-622-7622
+680,Spice Symphony #680,American,New York,4.2,550,$$$,+1-662-154-1013
+681,Pizza Palace #681,Mexican,Los Angeles,2.9,438,$$$,+1-986-131-4854
+682,Burger Haven #682,Mediterranean,San Antonio,2.9,999,$$$,+1-828-491-7652
+683,Burger Haven #683,Thai,Dallas,2.7,175,$$,+1-778-277-8780
+684,Spice Symphony #684,Japanese,Dallas,2.5,846,$$$$,+1-963-468-7835
+685,Spice Symphony #685,American,Chicago,3.6,214,$$,+1-111-173-1257
+686,Spice Symphony #686,French,San Antonio,4.0,830,$$,+1-186-240-7813
+687,Curry Kingdom #687,Mediterranean,San Antonio,3.2,629,$$,+1-565-621-7948
+688,Pizza Palace #688,French,San Antonio,3.1,151,$$$,+1-331-290-7959
+689,Noodle Nook #689,Italian,San Jose,4.3,903,$$$$,+1-967-848-4878
+690,Pizza Palace #690,American,San Antonio,4.3,266,$$$,+1-134-138-8917
+691,Sushi World #691,Chinese,San Jose,3.6,63,$$$$,+1-807-181-3327
+692,Pizza Palace #692,American,San Diego,4.2,666,$,+1-635-724-2449
+693,Grill House #693,French,Los Angeles,4.8,502,$$$,+1-727-154-6628
+694,Pizza Palace #694,Italian,San Diego,4.5,905,$$$$,+1-624-580-6431
+695,Burger Haven #695,Mexican,Phoenix,4.1,390,$$$,+1-271-136-5981
+696,Noodle Nook #696,American,New York,4.2,577,$$$$,+1-692-273-1845
+697,Pasta Point #697,Mediterranean,New York,4.8,966,$$$,+1-596-184-3077
+698,Pizza Palace #698,Chinese,Phoenix,3.6,115,$$$,+1-235-730-5603
+699,Pasta Point #699,American,New York,3.9,738,$,+1-718-278-3476
+700,Curry Kingdom #700,Mexican,Chicago,4.1,876,$$$,+1-901-817-4869
+701,Curry Kingdom #701,Indian,Dallas,4.8,538,$,+1-451-186-3376
+702,Noodle Nook #702,Indian,San Diego,4.6,881,$$$$,+1-888-492-4898
+703,Curry Kingdom #703,Indian,Houston,2.7,137,$$$,+1-155-757-5331
+704,Ocean's Delight #704,Italian,Chicago,2.9,301,$$$$,+1-508-587-5937
+705,Curry Kingdom #705,Greek,Houston,3.3,95,$$$$,+1-799-822-7390
+706,Curry Kingdom #706,American,Chicago,4.4,791,$$$$,+1-112-395-8353
+707,Burger Haven #707,Mexican,Dallas,3.9,174,$,+1-199-644-6797
+708,Burger Haven #708,Mediterranean,Phoenix,3.2,289,$$$,+1-376-373-2610
+709,Pasta Point #709,Mediterranean,San Antonio,2.8,470,$$$$,+1-891-791-4961
+710,Noodle Nook #710,Japanese,Dallas,4.2,937,$$$,+1-793-806-3947
+711,Sushi World #711,Greek,New York,4.2,535,$,+1-951-169-1195
+712,Burger Haven #712,Chinese,Dallas,4.9,160,$,+1-801-556-6759
+713,Grill House #713,American,Phoenix,3.8,860,$$,+1-134-124-2506
+714,Tasty Table #714,Mediterranean,Houston,3.7,457,$,+1-825-222-2415
+715,Noodle Nook #715,Indian,San Antonio,2.7,103,$$,+1-213-812-4018
+716,Pasta Point #716,American,San Diego,2.6,979,$,+1-754-564-5528
+717,Burger Haven #717,Mexican,Phoenix,3.6,942,$$,+1-899-175-5543
+718,Tasty Table #718,Thai,San Antonio,3.3,237,$$$,+1-161-364-5336
+719,Spice Symphony #719,French,Los Angeles,3.1,846,$$$$,+1-305-724-7432
+720,Spice Symphony #720,French,Los Angeles,2.7,471,$$,+1-653-887-8065
+721,Grill House #721,Mediterranean,Los Angeles,4.9,915,$$$$,+1-832-365-2692
+722,Tasty Table #722,Chinese,Los Angeles,4.6,367,$$$,+1-895-556-1307
+723,Curry Kingdom #723,Indian,New York,3.9,962,$,+1-780-499-5365
+724,Spice Symphony #724,Mexican,San Antonio,4.9,37,$,+1-627-824-9039
+725,Curry Kingdom #725,Thai,San Antonio,5.0,434,$,+1-653-331-1054
+726,Burger Haven #726,French,Los Angeles,4.2,64,$$$,+1-441-798-5961
+727,Burger Haven #727,Italian,Los Angeles,3.2,415,$$$,+1-647-973-6571
+728,Ocean's Delight #728,French,Phoenix,2.6,524,$$,+1-280-667-1644
+729,Burger Haven #729,Japanese,Phoenix,4.4,392,$$$$,+1-209-745-6886
+730,Curry Kingdom #730,Chinese,San Diego,3.7,251,$$,+1-243-136-4163
+731,Tasty Table #731,Mediterranean,Houston,4.1,405,$$$$,+1-498-164-9856
+732,Pasta Point #732,French,Dallas,4.8,93,$$$$,+1-116-137-6558
+733,Tasty Table #733,Mexican,New York,3.0,393,$$$$,+1-221-316-9570
+734,Curry Kingdom #734,Greek,Chicago,4.0,239,$$,+1-173-137-3319
+735,Curry Kingdom #735,Italian,San Diego,4.1,38,$,+1-348-818-3138
+736,Tasty Table #736,Indian,New York,3.7,336,$$$,+1-940-912-2594
+737,Curry Kingdom #737,Mediterranean,Chicago,2.7,963,$,+1-937-937-2742
+738,Ocean's Delight #738,French,San Jose,3.4,111,$$,+1-164-923-4320
+739,Burger Haven #739,Mexican,San Antonio,3.3,869,$$$,+1-223-800-9943
+740,Spice Symphony #740,Mexican,Houston,4.2,741,$,+1-707-277-6496
+741,Ocean's Delight #741,Chinese,Phoenix,4.6,675,$$,+1-875-525-3753
+742,Sushi World #742,Greek,Chicago,3.3,353,$$$$,+1-349-695-1666
+743,Spice Symphony #743,Chinese,San Jose,4.2,820,$$$$,+1-896-261-1256
+744,Curry Kingdom #744,Chinese,New York,3.2,159,$,+1-283-191-5648
+745,Burger Haven #745,French,Chicago,4.9,150,$$,+1-246-755-5439
+746,Pizza Palace #746,French,San Antonio,4.5,49,$$,+1-278-725-1616
+747,Noodle Nook #747,Indian,San Diego,3.9,303,$,+1-742-946-5934
+748,Sushi World #748,Thai,New York,3.6,949,$$,+1-296-220-9686
+749,Ocean's Delight #749,Mediterranean,Philadelphia,3.3,859,$$,+1-575-888-4409
+750,Pasta Point #750,Italian,Houston,3.3,493,$,+1-915-252-8772
+751,Curry Kingdom #751,Indian,Chicago,4.9,722,$,+1-155-760-6966
+752,Pasta Point #752,Japanese,San Antonio,3.5,861,$$$,+1-442-731-8424
+753,Tasty Table #753,Chinese,New York,3.8,152,$$,+1-261-904-1476
+754,Curry Kingdom #754,Greek,Los Angeles,5.0,787,$,+1-340-838-8287
+755,Noodle Nook #755,Mediterranean,Philadelphia,4.1,732,$$$$,+1-303-865-6336
+756,Grill House #756,Chinese,Philadelphia,3.9,490,$$,+1-200-342-7759
+757,Grill House #757,Thai,Houston,3.5,469,$,+1-582-699-8936
+758,Tasty Table #758,Thai,Chicago,3.0,640,$$,+1-724-565-3917
+759,Burger Haven #759,Mexican,Chicago,3.4,15,$$$$,+1-837-298-6875
+760,Pasta Point #760,Japanese,Philadelphia,4.4,937,$$,+1-132-808-1977
+761,Pasta Point #761,Indian,Los Angeles,4.1,91,$$$$,+1-569-528-3804
+762,Sushi World #762,Japanese,Phoenix,4.4,29,$$,+1-908-913-3784
+763,Noodle Nook #763,Greek,Houston,3.0,272,$,+1-521-977-9548
+764,Curry Kingdom #764,Japanese,San Jose,3.9,230,$$$$,+1-957-573-5573
+765,Tasty Table #765,Thai,Houston,4.8,865,$$,+1-435-544-4643
+766,Noodle Nook #766,Indian,San Jose,3.6,163,$,+1-527-145-1656
+767,Curry Kingdom #767,Greek,New York,4.2,571,$$$$,+1-643-503-8852
+768,Ocean's Delight #768,French,San Diego,2.8,972,$$,+1-185-671-1203
+769,Burger Haven #769,Japanese,Chicago,4.9,754,$$$,+1-402-344-2486
+770,Tasty Table #770,French,Phoenix,4.0,633,$$,+1-820-570-1399
+771,Curry Kingdom #771,French,Chicago,3.1,550,$$$$,+1-289-908-7068
+772,Curry Kingdom #772,Italian,Los Angeles,2.9,443,$$$$,+1-807-440-9698
+773,Tasty Table #773,American,San Antonio,3.9,123,$$$,+1-814-727-9887
+774,Noodle Nook #774,Japanese,Los Angeles,3.9,804,$$$,+1-853-156-9433
+775,Sushi World #775,Italian,Los Angeles,2.7,305,$$$$,+1-474-576-1669
+776,Sushi World #776,Mexican,Chicago,5.0,253,$,+1-674-826-4354
+777,Spice Symphony #777,Mexican,Houston,4.8,318,$,+1-764-589-4437
+778,Grill House #778,Mexican,Philadelphia,3.7,134,$$$,+1-615-796-7929
+779,Pasta Point #779,Italian,Los Angeles,2.8,58,$$$,+1-453-563-8966
+780,Pizza Palace #780,Greek,Los Angeles,4.6,254,$$$$,+1-826-644-9730
+781,Pasta Point #781,French,San Jose,3.7,439,$$$,+1-919-789-2075
+782,Grill House #782,French,Los Angeles,4.3,664,$,+1-500-283-5724
+783,Ocean's Delight #783,Chinese,Chicago,3.8,822,$$$,+1-214-813-3424
+784,Curry Kingdom #784,Indian,Houston,3.2,647,$,+1-400-526-9870
+785,Spice Symphony #785,French,Philadelphia,4.6,478,$$$$,+1-554-855-1351
+786,Pasta Point #786,Japanese,Los Angeles,5.0,74,$,+1-992-921-4806
+787,Pizza Palace #787,Mexican,San Antonio,3.1,123,$$$,+1-771-761-6346
+788,Curry Kingdom #788,Mediterranean,Dallas,3.9,866,$$$$,+1-568-411-3161
+789,Pasta Point #789,Indian,Phoenix,3.5,936,$$,+1-595-480-5720
+790,Tasty Table #790,Indian,Philadelphia,4.8,521,$$$,+1-566-270-3634
+791,Pizza Palace #791,American,Chicago,3.8,621,$$,+1-959-825-3514
+792,Spice Symphony #792,Japanese,Los Angeles,4.7,558,$,+1-424-688-3072
+793,Curry Kingdom #793,American,Philadelphia,4.7,26,$$,+1-310-675-1568
+794,Sushi World #794,Mexican,Chicago,3.2,657,$$$,+1-559-652-3663
+795,Pizza Palace #795,American,Los Angeles,4.5,537,$,+1-514-611-3381
+796,Curry Kingdom #796,Mexican,Chicago,3.5,598,$,+1-856-659-9313
+797,Sushi World #797,American,San Diego,4.8,257,$$$,+1-872-687-3409
+798,Noodle Nook #798,French,Philadelphia,3.8,745,$,+1-849-590-1656
+799,Spice Symphony #799,Greek,Los Angeles,4.6,157,$$$,+1-125-511-4610
+800,Curry Kingdom #800,Mexican,Los Angeles,3.2,308,$$$,+1-156-722-4197
+801,Noodle Nook #801,Greek,Houston,3.2,449,$$$,+1-300-123-2369
+802,Pizza Palace #802,French,Los Angeles,4.0,11,$$$$,+1-299-602-6206
+803,Noodle Nook #803,Mediterranean,Dallas,5.0,639,$,+1-782-469-7513
+804,Spice Symphony #804,Thai,Philadelphia,3.7,371,$$$$,+1-481-112-5663
+805,Sushi World #805,Mexican,Phoenix,2.9,256,$$$$,+1-995-674-2435
+806,Grill House #806,French,San Antonio,3.8,594,$$$$,+1-395-267-7944
+807,Burger Haven #807,Indian,San Jose,3.4,436,$,+1-247-312-5968
+808,Curry Kingdom #808,Greek,Philadelphia,3.9,201,$,+1-704-874-7156
+809,Ocean's Delight #809,Italian,San Antonio,3.9,690,$$$,+1-524-279-8571
+810,Noodle Nook #810,Indian,Houston,3.6,694,$$,+1-952-490-5742
+811,Pizza Palace #811,French,New York,3.3,97,$$$,+1-954-699-5979
+812,Curry Kingdom #812,Greek,San Diego,3.0,546,$$,+1-127-910-1040
+813,Spice Symphony #813,American,Phoenix,4.2,379,$$$$,+1-227-769-5713
+814,Burger Haven #814,Indian,San Diego,3.9,79,$$,+1-129-222-5541
+815,Curry Kingdom #815,Chinese,San Jose,3.1,986,$$$,+1-695-592-8144
+816,Pasta Point #816,French,Los Angeles,4.4,548,$$$,+1-624-850-1287
+817,Pasta Point #817,Indian,San Jose,2.6,567,$,+1-249-427-8553
+818,Spice Symphony #818,Mexican,Chicago,4.4,529,$,+1-379-469-7873
+819,Sushi World #819,Italian,Phoenix,4.3,815,$$$,+1-642-754-2258
+820,Pizza Palace #820,Japanese,Chicago,4.5,529,$,+1-713-870-3738
+821,Pizza Palace #821,Mexican,Philadelphia,3.5,577,$$$,+1-377-801-6939
+822,Ocean's Delight #822,Greek,San Jose,4.2,30,$$$,+1-943-247-1211
+823,Spice Symphony #823,Greek,Phoenix,4.6,409,$$$,+1-897-596-7750
+824,Sushi World #824,Indian,Los Angeles,5.0,904,$$,+1-258-615-4622
+825,Grill House #825,Greek,San Jose,3.7,491,$,+1-527-571-2251
+826,Ocean's Delight #826,Indian,New York,2.6,54,$$$$,+1-456-419-6940
+827,Spice Symphony #827,French,San Jose,3.8,660,$$$,+1-276-826-5991
+828,Tasty Table #828,Chinese,Houston,4.0,406,$$,+1-977-810-3332
+829,Grill House #829,American,Chicago,4.7,392,$$,+1-233-180-7960
+830,Ocean's Delight #830,Chinese,New York,4.7,269,$$$$,+1-875-541-1696
+831,Grill House #831,Chinese,New York,3.6,775,$,+1-580-221-5145
+832,Tasty Table #832,Chinese,Phoenix,3.8,26,$,+1-872-198-3028
+833,Noodle Nook #833,Japanese,San Jose,3.6,375,$$,+1-289-786-6759
+834,Tasty Table #834,Chinese,Chicago,4.3,817,$$$,+1-693-456-6770
+835,Spice Symphony #835,Greek,San Jose,3.5,79,$$,+1-617-683-2119
+836,Ocean's Delight #836,Mediterranean,New York,4.1,363,$$,+1-832-296-5617
+837,Spice Symphony #837,Greek,New York,2.9,256,$,+1-319-616-8777
+838,Sushi World #838,Mediterranean,Chicago,3.7,760,$$$$,+1-789-209-3963
+839,Sushi World #839,Thai,San Antonio,4.9,682,$$,+1-626-333-7677
+840,Ocean's Delight #840,Mexican,Los Angeles,3.3,653,$$$$,+1-212-632-3226
+841,Curry Kingdom #841,Mexican,Phoenix,4.2,116,$,+1-184-435-9088
+842,Ocean's Delight #842,Thai,Phoenix,4.1,800,$$$$,+1-714-853-6111
+843,Curry Kingdom #843,Japanese,Dallas,4.6,605,$$$$,+1-397-975-8011
+844,Grill House #844,Chinese,San Diego,4.6,762,$$$,+1-283-113-9055
+845,Ocean's Delight #845,Thai,San Diego,4.6,784,$,+1-222-246-7468
+846,Burger Haven #846,Mediterranean,Los Angeles,3.5,350,$$,+1-166-472-4261
+847,Sushi World #847,Japanese,San Jose,3.3,146,$$$$,+1-225-338-7958
+848,Curry Kingdom #848,American,San Jose,4.3,55,$$$,+1-874-908-7557
+849,Sushi World #849,French,San Jose,4.4,370,$$$$,+1-596-623-5569
+850,Spice Symphony #850,French,Los Angeles,4.7,569,$,+1-356-601-9147
+851,Grill House #851,Indian,New York,2.6,356,$,+1-855-154-2117
+852,Curry Kingdom #852,Italian,Chicago,2.7,843,$$$$,+1-719-795-6356
+853,Spice Symphony #853,American,San Jose,4.1,668,$,+1-878-178-9518
+854,Curry Kingdom #854,French,Houston,4.8,189,$$$,+1-777-609-9032
+855,Pizza Palace #855,American,Dallas,5.0,860,$$$,+1-928-980-9856
+856,Pizza Palace #856,Italian,New York,4.4,807,$$$$,+1-221-492-8374
+857,Sushi World #857,Thai,San Diego,3.6,711,$$$$,+1-136-133-3897
+858,Pizza Palace #858,American,Chicago,2.7,485,$$$$,+1-541-237-6119
+859,Burger Haven #859,French,Los Angeles,4.1,722,$$$$,+1-775-667-9837
+860,Noodle Nook #860,French,San Diego,4.7,500,$$,+1-618-157-7412
+861,Pasta Point #861,French,San Jose,3.6,656,$$$$,+1-731-792-6779
+862,Pasta Point #862,Mexican,New York,4.2,196,$,+1-704-146-3100
+863,Sushi World #863,Mexican,San Jose,4.8,840,$,+1-883-740-6591
+864,Burger Haven #864,Chinese,San Antonio,2.6,148,$$$,+1-465-521-6755
+865,Tasty Table #865,Japanese,Houston,4.5,74,$$,+1-763-419-2391
+866,Ocean's Delight #866,American,Los Angeles,3.2,743,$$$,+1-273-120-9821
+867,Sushi World #867,Italian,San Diego,3.4,804,$$$$,+1-681-627-7900
+868,Pasta Point #868,Italian,San Diego,2.9,976,$,+1-424-486-7394
+869,Sushi World #869,Mediterranean,Los Angeles,3.8,478,$$$$,+1-202-807-4373
+870,Sushi World #870,French,Dallas,3.9,47,$$$,+1-270-729-5907
+871,Sushi World #871,Thai,Houston,4.5,310,$$$$,+1-750-967-2234
+872,Pizza Palace #872,Japanese,Phoenix,2.9,216,$$$,+1-148-404-7586
+873,Grill House #873,Mediterranean,Los Angeles,2.7,54,$,+1-706-444-5478
+874,Ocean's Delight #874,Mediterranean,Dallas,4.7,820,$$$$,+1-537-314-6690
+875,Ocean's Delight #875,American,Dallas,4.0,214,$$$,+1-543-779-9846
+876,Sushi World #876,Japanese,San Antonio,3.1,917,$$$$,+1-357-739-9443
+877,Curry Kingdom #877,Greek,Chicago,4.8,52,$,+1-742-820-9457
+878,Spice Symphony #878,Mediterranean,San Diego,2.9,333,$$,+1-776-943-8656
+879,Pasta Point #879,Greek,San Jose,3.7,965,$$$$,+1-679-844-1981
+880,Pizza Palace #880,Japanese,Philadelphia,3.1,327,$$$$,+1-251-346-3465
+881,Pasta Point #881,Thai,San Antonio,3.1,537,$$$,+1-980-950-2055
+882,Grill House #882,Thai,Phoenix,2.5,417,$$$,+1-761-264-5201
+883,Noodle Nook #883,Japanese,San Antonio,4.5,844,$$,+1-216-253-4144
+884,Tasty Table #884,Japanese,Phoenix,4.8,566,$$$$,+1-597-673-8145
+885,Burger Haven #885,Italian,Houston,4.2,494,$$,+1-379-239-1477
+886,Pasta Point #886,American,Dallas,2.9,269,$$,+1-759-972-1691
+887,Curry Kingdom #887,Italian,New York,3.6,47,$,+1-421-716-5882
+888,Ocean's Delight #888,Thai,Philadelphia,3.4,781,$,+1-506-959-3302
+889,Grill House #889,Chinese,San Jose,4.0,672,$,+1-634-780-9605
+890,Pasta Point #890,French,Los Angeles,4.1,205,$$,+1-714-225-6134
+891,Sushi World #891,Mediterranean,San Antonio,3.6,302,$$,+1-533-323-3363
+892,Ocean's Delight #892,Indian,Houston,3.1,375,$$$,+1-550-518-5166
+893,Noodle Nook #893,Italian,San Diego,4.6,892,$$$,+1-816-215-6185
+894,Pizza Palace #894,Thai,San Diego,3.0,809,$$,+1-384-903-3374
+895,Sushi World #895,French,Philadelphia,3.5,58,$$$,+1-121-760-1570
+896,Tasty Table #896,Japanese,Phoenix,3.7,896,$$$$,+1-416-754-6945
+897,Ocean's Delight #897,Greek,Houston,3.1,681,$$$$,+1-497-108-7438
+898,Pasta Point #898,American,Los Angeles,3.9,349,$$,+1-404-315-3625
+899,Curry Kingdom #899,Mexican,San Antonio,3.9,289,$,+1-380-987-2312
+900,Curry Kingdom #900,French,San Antonio,5.0,137,$$$,+1-834-532-2644
+901,Spice Symphony #901,American,Dallas,3.2,828,$,+1-460-530-9973
+902,Sushi World #902,French,New York,4.9,386,$,+1-756-756-4010
+903,Curry Kingdom #903,Indian,New York,4.1,457,$$$$,+1-304-743-6006
+904,Sushi World #904,Mediterranean,Los Angeles,3.2,920,$,+1-261-355-9460
+905,Spice Symphony #905,Mediterranean,San Antonio,3.9,419,$$$,+1-562-589-3187
+906,Pasta Point #906,Indian,San Jose,4.2,771,$$$,+1-918-388-4254
+907,Ocean's Delight #907,Thai,Philadelphia,4.4,460,$$,+1-502-997-7182
+908,Noodle Nook #908,Japanese,New York,2.6,926,$,+1-671-762-4747
+909,Ocean's Delight #909,French,Houston,4.0,989,$$$,+1-818-972-3764
+910,Tasty Table #910,Thai,San Jose,3.7,405,$$$$,+1-714-366-3445
+911,Ocean's Delight #911,Mexican,Chicago,4.8,357,$,+1-114-835-9615
+912,Burger Haven #912,French,San Diego,3.2,201,$,+1-329-830-4328
+913,Grill House #913,American,Phoenix,4.5,518,$$$$,+1-491-233-8066
+914,Grill House #914,Mediterranean,Houston,4.0,718,$$$,+1-844-793-4102
+915,Burger Haven #915,Indian,San Antonio,3.4,519,$$,+1-129-397-5289
+916,Grill House #916,Mediterranean,San Diego,4.1,386,$$,+1-478-696-8506
+917,Ocean's Delight #917,Italian,San Diego,4.1,956,$$,+1-992-431-7513
+918,Grill House #918,Thai,San Antonio,4.2,826,$$$,+1-174-197-1962
+919,Tasty Table #919,Mexican,Houston,4.3,541,$$$$,+1-462-720-1745
+920,Tasty Table #920,American,Dallas,4.1,283,$$$$,+1-409-504-7076
+921,Spice Symphony #921,Greek,New York,4.6,830,$$,+1-366-273-9253
+922,Curry Kingdom #922,Mexican,San Diego,4.1,94,$$,+1-191-424-9690
+923,Burger Haven #923,Indian,Phoenix,4.8,754,$,+1-420-145-3095
+924,Curry Kingdom #924,American,Philadelphia,4.1,444,$$$$,+1-389-997-5312
+925,Noodle Nook #925,American,Dallas,3.3,90,$$$,+1-546-268-6169
+926,Curry Kingdom #926,Indian,Dallas,3.6,450,$$$$,+1-154-293-3435
+927,Tasty Table #927,Japanese,Chicago,3.9,626,$,+1-581-366-3679
+928,Curry Kingdom #928,Thai,Los Angeles,4.3,852,$$$$,+1-141-552-6841
+929,Pizza Palace #929,French,San Diego,2.7,194,$$$$,+1-215-966-3425
+930,Ocean's Delight #930,Mexican,Los Angeles,3.2,568,$$,+1-989-390-3959
+931,Spice Symphony #931,Greek,Phoenix,4.4,310,$$,+1-697-104-9618
+932,Noodle Nook #932,Indian,San Antonio,2.9,338,$,+1-352-886-9161
+933,Ocean's Delight #933,Mexican,New York,2.8,115,$$$,+1-797-796-2998
+934,Burger Haven #934,Mexican,San Jose,3.8,91,$,+1-957-431-3519
+935,Tasty Table #935,Chinese,San Diego,4.9,345,$$$$,+1-564-743-5412
+936,Noodle Nook #936,Italian,Philadelphia,3.8,686,$,+1-771-737-8423
+937,Sushi World #937,Mediterranean,Chicago,4.8,312,$$,+1-983-149-5635
+938,Sushi World #938,Italian,Los Angeles,4.6,323,$$$$,+1-194-508-5180
+939,Spice Symphony #939,Japanese,San Antonio,3.1,466,$,+1-121-972-4411
+940,Spice Symphony #940,Thai,San Antonio,4.6,627,$$$,+1-762-870-3525
+941,Ocean's Delight #941,American,San Diego,3.7,744,$$$$,+1-853-925-6080
+942,Noodle Nook #942,Indian,Philadelphia,4.5,446,$,+1-952-476-9399
+943,Grill House #943,French,San Diego,4.4,180,$$$$,+1-587-374-7931
+944,Ocean's Delight #944,Thai,Philadelphia,3.3,716,$$,+1-544-745-7979
+945,Ocean's Delight #945,Italian,Dallas,2.8,464,$$$,+1-574-792-4673
+946,Spice Symphony #946,French,Dallas,4.9,369,$,+1-397-579-8165
+947,Ocean's Delight #947,French,Phoenix,2.9,467,$$,+1-230-800-5921
+948,Grill House #948,Greek,San Antonio,4.9,53,$$$,+1-682-148-2253
+949,Tasty Table #949,Greek,Los Angeles,4.7,754,$$$$,+1-522-196-8612
+950,Noodle Nook #950,American,Philadelphia,4.3,900,$$$,+1-699-183-9248
+951,Tasty Table #951,Chinese,San Diego,4.9,943,$$,+1-905-286-7438
+952,Tasty Table #952,Chinese,San Antonio,4.9,371,$$$,+1-421-701-8454
+953,Curry Kingdom #953,Mediterranean,Phoenix,4.5,639,$$$,+1-992-929-4066
+954,Grill House #954,Indian,Los Angeles,3.4,455,$$$,+1-992-789-2742
+955,Burger Haven #955,Greek,New York,4.5,291,$,+1-504-219-1217
+956,Spice Symphony #956,French,San Diego,2.5,664,$$$$,+1-989-773-8974
+957,Pasta Point #957,Mediterranean,San Jose,3.8,820,$$$,+1-807-789-7471
+958,Pasta Point #958,Chinese,Chicago,3.6,980,$$,+1-114-295-2833
+959,Tasty Table #959,Japanese,New York,4.2,68,$$,+1-592-764-3378
+960,Grill House #960,Thai,Dallas,4.2,86,$$,+1-188-408-8592
+961,Spice Symphony #961,French,San Antonio,4.0,697,$,+1-219-270-3497
+962,Curry Kingdom #962,French,San Diego,4.6,662,$,+1-980-560-4975
+963,Grill House #963,American,San Jose,4.9,425,$$$$,+1-152-441-1129
+964,Ocean's Delight #964,Thai,San Antonio,2.8,382,$$$$,+1-854-692-5764
+965,Tasty Table #965,French,San Antonio,3.1,535,$$$$,+1-625-705-8993
+966,Grill House #966,Italian,Dallas,2.6,830,$,+1-532-690-6174
+967,Pizza Palace #967,Chinese,Phoenix,4.7,777,$$$$,+1-584-219-9106
+968,Noodle Nook #968,Mexican,San Diego,3.9,705,$$$$,+1-121-265-5718
+969,Grill House #969,French,Philadelphia,4.8,173,$$$$,+1-337-619-4599
+970,Noodle Nook #970,Mexican,San Jose,3.1,985,$$$$,+1-234-400-7395
+971,Burger Haven #971,Mexican,San Diego,2.7,41,$$,+1-736-312-5627
+972,Ocean's Delight #972,French,Chicago,4.6,156,$$,+1-304-260-9063
+973,Ocean's Delight #973,Thai,San Diego,4.8,879,$$$,+1-340-314-1770
+974,Tasty Table #974,Mexican,Phoenix,3.3,632,$$$,+1-793-262-3862
+975,Pizza Palace #975,Italian,Los Angeles,3.5,704,$$$,+1-540-216-4714
+976,Ocean's Delight #976,Greek,Houston,2.8,810,$$$$,+1-364-448-6820
+977,Tasty Table #977,Greek,Phoenix,4.9,458,$$,+1-973-806-9444
+978,Noodle Nook #978,Chinese,New York,3.3,45,$$$$,+1-918-568-2817
+979,Ocean's Delight #979,Mediterranean,San Jose,3.7,139,$,+1-943-675-1687
+980,Pizza Palace #980,Chinese,Chicago,2.7,78,$,+1-991-310-6925
+981,Spice Symphony #981,American,San Diego,4.7,251,$$$$,+1-850-991-2626
+982,Spice Symphony #982,Mexican,Philadelphia,2.8,807,$$,+1-225-968-4307
+983,Curry Kingdom #983,Thai,New York,3.6,670,$$,+1-954-928-8760
+984,Sushi World #984,American,Dallas,4.2,385,$$,+1-187-372-7101
+985,Burger Haven #985,Mexican,Houston,4.4,380,$$,+1-871-871-9677
+986,Burger Haven #986,Japanese,Chicago,4.9,402,$$$$,+1-523-519-8516
+987,Pizza Palace #987,Mexican,New York,3.5,982,$$$$,+1-249-888-1162
+988,Pizza Palace #988,Chinese,Los Angeles,4.4,590,$$$,+1-422-511-3692
+989,Burger Haven #989,Italian,San Antonio,2.9,43,$,+1-776-756-3473
+990,Noodle Nook #990,Italian,Dallas,3.5,629,$$$,+1-529-511-5986
+991,Sushi World #991,Mexican,New York,2.7,167,$$$,+1-640-725-3406
+992,Burger Haven #992,French,Houston,3.7,705,$$$$,+1-814-453-7627
+993,Grill House #993,American,Los Angeles,3.5,470,$,+1-650-442-7389
+994,Spice Symphony #994,Greek,Dallas,4.9,981,$$$,+1-318-195-9383
+995,Pizza Palace #995,American,Dallas,2.6,389,$$$,+1-875-750-3621
+996,Tasty Table #996,Italian,Dallas,3.4,390,$$$,+1-347-952-5979
+997,Burger Haven #997,Greek,Los Angeles,3.6,464,$,+1-961-481-5255
+998,Pizza Palace #998,Mexican,Los Angeles,4.9,791,$,+1-874-766-3043
+999,Curry Kingdom #999,American,San Jose,4.6,88,$,+1-564-447-4868
